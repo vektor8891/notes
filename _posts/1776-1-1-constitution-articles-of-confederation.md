@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Constitution(1787-1992), The Declaration of Independence (July 4, 1776), and The Articles of Confederation (1777-1781)"
+title: "The Constitution (1787-1992), The Declaration of Independence (July 4, 1776), and The Articles of Confederation (1777-1781)"
 published: true
 ---
 
