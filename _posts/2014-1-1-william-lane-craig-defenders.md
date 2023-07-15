@@ -30,18 +30,18 @@ published: true
   - [7. Practical Application of God’s Eternity](#7-practical-application-of-gods-eternity)
   - [8. God's Omnipresence](#8-gods-omnipresence)
   - [9. God’s Immutability](#9-gods-immutability)
-  - [10.God's Immutability and Incorporeality](#10gods-immutability-and-incorporeality)
-  - [11.Anthropomorphic Language and Theophanies](#11anthropomorphic-language-and-theophanies)
-  - [12.Practical Application of God's Incorporeality - God's Omniscience](#12practical-application-of-gods-incorporeality---gods-omniscience)
-  - [13.Systematic Study of God's Omniscience](#13systematic-study-of-gods-omniscience)
-  - [14.Divine Foreknowledge and Human Freedom](#14divine-foreknowledge-and-human-freedom)
-  - [15.God's Middle Knowledge](#15gods-middle-knowledge)
-  - [16.Application of Divine Omniscience / God's Omnipotence](#16application-of-divine-omniscience--gods-omnipotence)
-  - [17.Practical Application of Divine Omnipotence](#17practical-application-of-divine-omnipotence)
-  - [18.God's Holiness](#18gods-holiness)
-  - [19.Application of God's Holiness](#19application-of-gods-holiness)
-  - [20.God's Love](#20gods-love)
-  - [21.Application of God's Love](#21application-of-gods-love)
+  - [10. God's Immutability and Incorporeality](#10-gods-immutability-and-incorporeality)
+  - [11. Anthropomorphic Language and Theophanies](#11-anthropomorphic-language-and-theophanies)
+  - [12. Practical Application of God's Incorporeality - God's Omniscience](#12-practical-application-of-gods-incorporeality---gods-omniscience)
+  - [13. Systematic Study of God's Omniscience](#13-systematic-study-of-gods-omniscience)
+  - [14. Divine Foreknowledge and Human Freedom](#14-divine-foreknowledge-and-human-freedom)
+  - [15. God's Middle Knowledge](#15-gods-middle-knowledge)
+  - [16. Application of Divine Omniscience / God's Omnipotence](#16-application-of-divine-omniscience--gods-omnipotence)
+  - [17. Practical Application of Divine Omnipotence](#17-practical-application-of-divine-omnipotence)
+  - [18. God's Holiness](#18-gods-holiness)
+  - [19. Application of God's Holiness](#19-application-of-gods-holiness)
+  - [20. God's Love](#20-gods-love)
+  - [21. Application of God's Love](#21-application-of-gods-love)
 - [S4: EXCURSUS ON NATURAL THEOLOGY](#s4-excursus-on-natural-theology)
   - [1. Belief In God As Properly Basic](#1-belief-in-god-as-properly-basic)
   - [2. The Inner Witness of the Holy Spirit](#2-the-inner-witness-of-the-holy-spirit)
@@ -714,7 +714,7 @@ published: true
       2. God of Aristotle: The Unmoved Mover
       3. most common argument: any change would violate God’s perfectness (counterargument: God’s knowing what time it is)
 
-### 10.God's Immutability and Incorporeality
+### 10. God's Immutability and Incorporeality
 
 1. summary of God's immutable attributes (J. I. Packer)
    1. God's life does not change
@@ -733,7 +733,7 @@ published: true
       5. Yet the Bible will often describe God in bodily term (e.g. Ps 18:6-10)
       6. Moreover: theophanies (visions of God) in OT (Ex 33:20-23)
 
-### 11.Anthropomorphic Language and Theophanies
+### 11. Anthropomorphic Language and Theophanies
 
 1. anthropomorphism: God described in corporeal terms (hands, eyes etc)
 2. theophanies: corporeal visions of God (e.g. sitting on a throne)
@@ -748,7 +748,7 @@ published: true
    3. some say Christ in preincarnate state -&gt; don’t think so
 5. new heavens and a new Earth will be corporeal existence
 
-### 12.Practical Application of God's Incorporeality - God's Omniscience
+### 12. Practical Application of God's Incorporeality - God's Omniscience
 
 1. application of God’s incorporeality:
    1. _that which is ultimate is not material_
@@ -779,7 +779,7 @@ published: true
    4. hard to provide prooftext -&gt; controversial (e.g. foretelling in Keilah)
    5. middle knowledge requires that God has this knowledgebefore creation -&gt; difficult to prove
 
-### 13.Systematic Study of God's Omniscience
+### 13. Systematic Study of God's Omniscience
 
 1. \*1 Samuel 23:1-13:
    1. counterfactual: subjunctive conditional with false antecedent
@@ -800,7 +800,7 @@ published: true
       1. God simply knows all truth innately
       2. nobod taught him anything
 
-### 14.Divine Foreknowledge and Human Freedom
+### 14. Divine Foreknowledge and Human Freedom
 
 1. two problems with divine omniscience
    1. if God knows in advance everything that happen,, then isn’t everything fated to occur?
@@ -820,7 +820,7 @@ published: true
    1. but: many biblical counter examples
    2. the God of open theism sits idly and allows evils to go on and he doesn’t intervene to stop them
 
-### 15.God's Middle Knowledge
+### 15. God's Middle Knowledge
 
 1. God’s middle knowledge / hypothetical knowledge: knowledge of subjunctive conditional (“if you had been in Pilate’s place, would you have condemned Jesus?”)
 2. theological controversy:
@@ -832,7 +832,7 @@ published: true
       1. problem: cannot have providence, sovereignty and human freedom without middle knowledge
 3. biblical support: e.g. Acts 4:27-28
 
-### 16.Application of Divine Omniscience / God's Omnipotence
+### 16. Application of Divine Omniscience / God's Omnipotence
 
 1. Application of Divine Omniscience
    1. _basis for total trust in God’s guidance_
@@ -870,7 +870,7 @@ published: true
 4. these are not real “things” rather purely logical limits on God’s power
 5. useable definition of omnipotence: _“God can bring about any state of affairs which is logically possible for anyone to bring about in that situation.”_
 
-### 17.Practical Application of Divine Omnipotence
+### 17. Practical Application of Divine Omnipotence
 
 1. _The power of God is at work within us_
    1. same power that created the universe & raised Jesus from the dead
@@ -890,7 +890,7 @@ published: true
    1. no prayer too hard, no need too great, no temptation too strong, no misery too deep but that God is not adequate to meet your needs
    2. Ephesians 3:20-21
 
-### 18.God's Holiness
+### 18. God's Holiness
 
 1. personal attributes of God: intellectual / volitional / _moral_
 2. _God is the very standard of goodness._
@@ -916,7 +916,7 @@ published: true
    3. adults deserved it, for children it was a deliverance from evil
    4. muslim terrorists: right moral theology but wrong god
 
-### 19.Application of God's Holiness
+### 19. Application of God's Holiness
 
 1. Application of God’s holiness in our lives:
    1. _We should strive for personal holiness in our lives._
@@ -930,7 +930,7 @@ published: true
    2. _In Christ God’s holiness becomes our justification_
       1. the holiness that once condemned me now becomes the source of my salvation (Romans 3:21-26)
 
-### 20.God's Love
+### 20. God's Love
 
 1. scriptural data:
    1. _God’s nature is loving_. God is essentially loving (1 John 4:7-21)
@@ -942,7 +942,7 @@ published: true
 4. Lost people: not innocent little lost lambs but hateful rebels
 5. Love of God draws & justice and holiness impels us into Christ's arms
 
-### 21.Application of God's Love
+### 21. Application of God's Love
 
 1. We should bathe in the sunshine of God’s love for us (Ephesians 3:14-19)
    1. There is no fear in this love (1 John 4:18)
