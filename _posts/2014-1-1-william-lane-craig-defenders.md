@@ -32,7 +32,7 @@ published: true
   - [9. God’s Immutability](#9-gods-immutability)
   - [10.God's Immutability and Incorporeality](#10gods-immutability-and-incorporeality)
   - [11.Anthropomorphic Language and Theophanies](#11anthropomorphic-language-and-theophanies)
-  - [12.Practical Application of God's Incorporeality | God's Omniscience](#12practical-application-of-gods-incorporeality--gods-omniscience)
+  - [12.Practical Application of God's Incorporeality - God's Omniscience](#12practical-application-of-gods-incorporeality---gods-omniscience)
   - [13.Systematic Study of God's Omniscience](#13systematic-study-of-gods-omniscience)
   - [14.Divine Foreknowledge and Human Freedom](#14divine-foreknowledge-and-human-freedom)
   - [15.God's Middle Knowledge](#15gods-middle-knowledge)
@@ -748,7 +748,7 @@ published: true
    3. some say Christ in preincarnate state -&gt; don’t think so
 5. new heavens and a new Earth will be corporeal existence
 
-### 12.Practical Application of God's Incorporeality | God's Omniscience
+### 12.Practical Application of God's Incorporeality - God's Omniscience
 
 1. application of God’s incorporeality:
    1. _that which is ultimate is not material_
