@@ -9,7 +9,7 @@ name: Jegyzetek / Notes
 description: "Könyvek, előadások stb. / Books, lectures, etc."
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: "notes/images/notebook.png"
+avatar: "/notes/images/notebook.png"
 
 #
 # Flags below are optional
