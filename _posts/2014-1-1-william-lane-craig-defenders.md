@@ -171,8 +171,8 @@ published: true
   - [20. The Work of Angels](#20-the-work-of-angels)
   - [21. The Names of Satan](#21-the-names-of-satan)
   - [22. The Origin of Satan](#22-the-origin-of-satan)
-  - [23.The Nature of Demons](#23the-nature-of-demons)
-  - [24.The Work of Demons](#24the-work-of-demons)
+  - [23. The Nature of Demons](#23-the-nature-of-demons)
+  - [24. The Work of Demons](#24-the-work-of-demons)
 - [S9: EXCURSUS ON CREATION OF LIFE AND BIOLOGICAL DIVERSITY](#s9-excursus-on-creation-of-life-and-biological-diversity)
   - [1. Hermeneutical Principles and Concordism](#1-hermeneutical-principles-and-concordism)
   - [2. The Literal Interpretation](#2-the-literal-interpretation)
@@ -183,31 +183,31 @@ published: true
   - [7. The Literary Framework and the Functional Creation Interpretations](#7-the-literary-framework-and-the-functional-creation-interpretations)
   - [8. A Critique of John Walton’s Functional Creation Interpretation](#8-a-critique-of-john-waltons-functional-creation-interpretation)
   - [9. A Critique of John Walton’s Functional Creation Interpretation, Part 2](#9-a-critique-of-john-waltons-functional-creation-interpretation-part-2)
-  - [10.The Monotheistic Hebrew Myth Interpretation](#10the-monotheistic-hebrew-myth-interpretation)
-  - [11.An Assessment of the Monotheistic Hebrew Myth Interpretation](#11an-assessment-of-the-monotheistic-hebrew-myth-interpretation)
-  - [12.Examining the Supposed Parallels Between Genesis and Egyptian Myths](#12examining-the-supposed-parallels-between-genesis-and-egyptian-myths)
-  - [13.Did Genesis Borrow From Babylonian Myths?](#13did-genesis-borrow-from-babylonian-myths)
-  - [14.Etiological Motifs in Genesis 2](#14etiological-motifs-in-genesis-2)
-  - [15.Genealogies in Genesis 1-11](#15genealogies-in-genesis-1-11)
-  - [16.Genealogies in Genesis 1-11 (continued)](#16genealogies-in-genesis-1-11-continued)
-  - [17.The Genre of Mytho-History](#17the-genre-of-mytho-history)
-  - [18.Is the Biblical Primeval History To Be Understood as Literally True?](#18is-the-biblical-primeval-history-to-be-understood-as-literally-true)
-  - [19.The Plasticity and Flexibility of ANE Myths](#19the-plasticity-and-flexibility-of-ane-myths)
-  - [20.Why Think Genesis 1-11 is Mytho-History?](#20why-think-genesis-1-11-is-mytho-history)
-  - [21.Why Read Genesis 1-3 Figuratively?](#21why-read-genesis-1-3-figuratively)
-  - [22.The Central Truths Expressed in Genesis 1-11](#22the-central-truths-expressed-in-genesis-1-11)
-  - [23.Adam in the New Testament](#23adam-in-the-new-testament)
-  - [24.New Testament Authors’ Use of the Literary Adam](#24new-testament-authors-use-of-the-literary-adam)
-  - [25.Paul’s Use of Adam in 1 Corinthians 15](#25pauls-use-of-adam-in-1-corinthians-15)
-  - [26.Paul’s Use of Adam in Romans 5](#26pauls-use-of-adam-in-romans-5)
-  - [27.Scientific Evidence Pertinent to the Origin and Evolution of Biological Complexity](#27scientific-evidence-pertinent-to-the-origin-and-evolution-of-biological-complexity)
-  - [28.Is Genesis 1 in Conflict With the Theory of Evolution?](#28is-genesis-1-in-conflict-with-the-theory-of-evolution)
-  - [29.Methodological Naturalism](#29methodological-naturalism)
-  - [30.Three Aspects of the Evolutionary Paradigm](#30three-aspects-of-the-evolutionary-paradigm)
-  - [31.Examining the Thesis of Common Ancestry](#31examining-the-thesis-of-common-ancestry)
-  - [32.Evidence for the Neo-Darwinian Mechanisms](#32evidence-for-the-neo-darwinian-mechanisms)
-  - [33.Inadequacies of the Neo-Darwinian Mechanisms](#33inadequacies-of-the-neo-darwinian-mechanisms)
-  - [34.Progressive Creationism – Integrating the Scientific Evidence with the Genesis Narrative](#34progressive-creationism--integrating-the-scientific-evidence-with-the-genesis-narrative)
+  - [10. The Monotheistic Hebrew Myth Interpretation](#10-the-monotheistic-hebrew-myth-interpretation)
+  - [11. An Assessment of the Monotheistic Hebrew Myth Interpretation](#11-an-assessment-of-the-monotheistic-hebrew-myth-interpretation)
+  - [12. Examining the Supposed Parallels Between Genesis and Egyptian Myths](#12-examining-the-supposed-parallels-between-genesis-and-egyptian-myths)
+  - [13. Did Genesis Borrow From Babylonian Myths?](#13-did-genesis-borrow-from-babylonian-myths)
+  - [14. Etiological Motifs in Genesis 2](#14-etiological-motifs-in-genesis-2)
+  - [15. Genealogies in Genesis 1-11](#15-genealogies-in-genesis-1-11)
+  - [16. Genealogies in Genesis 1-11 (continued)](#16-genealogies-in-genesis-1-11-continued)
+  - [17. The Genre of Mytho-History](#17-the-genre-of-mytho-history)
+  - [18. Is the Biblical Primeval History To Be Understood as Literally True?](#18-is-the-biblical-primeval-history-to-be-understood-as-literally-true)
+  - [19. The Plasticity and Flexibility of ANE Myths](#19-the-plasticity-and-flexibility-of-ane-myths)
+  - [20. Why Think Genesis 1-11 is Mytho-History?](#20-why-think-genesis-1-11-is-mytho-history)
+  - [21. Why Read Genesis 1-3 Figuratively?](#21-why-read-genesis-1-3-figuratively)
+  - [22. The Central Truths Expressed in Genesis 1-11](#22-the-central-truths-expressed-in-genesis-1-11)
+  - [23. Adam in the New Testament](#23-adam-in-the-new-testament)
+  - [24. New Testament Authors’ Use of the Literary Adam](#24-new-testament-authors-use-of-the-literary-adam)
+  - [25. Paul’s Use of Adam in 1 Corinthians 15](#25-pauls-use-of-adam-in-1-corinthians-15)
+  - [26. Paul’s Use of Adam in Romans 5](#26-pauls-use-of-adam-in-romans-5)
+  - [27. Scientific Evidence Pertinent to the Origin and Evolution of Biological Complexity](#27-scientific-evidence-pertinent-to-the-origin-and-evolution-of-biological-complexity)
+  - [28. Is Genesis 1 in Conflict With the Theory of Evolution?](#28-is-genesis-1-in-conflict-with-the-theory-of-evolution)
+  - [29. Methodological Naturalism](#29-methodological-naturalism)
+  - [30. Three Aspects of the Evolutionary Paradigm](#30-three-aspects-of-the-evolutionary-paradigm)
+  - [31. Examining the Thesis of Common Ancestry](#31-examining-the-thesis-of-common-ancestry)
+  - [32. Evidence for the Neo-Darwinian Mechanisms](#32-evidence-for-the-neo-darwinian-mechanisms)
+  - [33. Inadequacies of the Neo-Darwinian Mechanisms](#33-inadequacies-of-the-neo-darwinian-mechanisms)
+  - [34. Progressive Creationism – Integrating the Scientific Evidence with the Genesis Narrative](#34-progressive-creationism--integrating-the-scientific-evidence-with-the-genesis-narrative)
 - [S10. Doctrine of Man](#s10-doctrine-of-man)
   - [1. Different Approaches to Anthropology](#1-different-approaches-to-anthropology)
   - [2. Biblical Data Concerning Man as the Image of God](#2-biblical-data-concerning-man-as-the-image-of-god)
@@ -218,25 +218,25 @@ published: true
   - [7. Paul’s Use of the Anthropological Terms Sarx and Psuche](#7-pauls-use-of-the-anthropological-terms-sarx-and-psuche)
   - [8. Systematizing the Biblical Data Concerning the Nature of Man](#8-systematizing-the-biblical-data-concerning-the-nature-of-man)
   - [9. Refuting Materialism / Monism](#9-refuting-materialism--monism)
-  - [10.Refuting Reductive and Non-Reductive Physicalism](#10refuting-reductive-and-non-reductive-physicalism)
-  - [11.A Challenge to Dualism-Interactionism – The Libet Experiments](#11a-challenge-to-dualism-interactionism--the-libet-experiments)
-  - [12.The Origin of the Soul](#12the-origin-of-the-soul)
-  - [13.The Question of the Historicity of Adam and Eve](#13the-question-of-the-historicity-of-adam-and-eve)
-  - [14.When Did Adam Live?](#14when-did-adam-live)
-  - [15.Were Neanderthals Humans?](#15were-neanderthals-humans)
-  - [16.Locating the Historical Adam](#16locating-the-historical-adam)
-  - [17.Genetic Challenges to Adam and Eve](#17genetic-challenges-to-adam-and-eve)
-  - [18.Putting It All Together](#18putting-it-all-together)
-  - [19.Man as Sinner](#19man-as-sinner)
-  - [20.The Fall of Man and the Nature of Sin](#20the-fall-of-man-and-the-nature-of-sin)
-  - [21.Evaluating the Nature of Sin](#21evaluating-the-nature-of-sin)
-  - [22.Original Sin](#22original-sin)
-  - [23.Original Sin: Semi-Pelagianism, Reformation, Enlightenment, Modern Era](#23original-sin-semi-pelagianism-reformation-enlightenment-modern-era)
-  - [24.Evaluating the Doctrine of Original Sin](#24evaluating-the-doctrine-of-original-sin)
-  - [25.A Continued Evaluation of Original Sin](#25a-continued-evaluation-of-original-sin)
-  - [26.Freedom of the Will](#26freedom-of-the-will)
-  - [27.The Catholic View of Freedom of the Will](#27the-catholic-view-of-freedom-of-the-will)
-  - [28.Freedom of the Will and Romans 10](#28freedom-of-the-will-and-romans-10)
+  - [10. Refuting Reductive and Non-Reductive Physicalism](#10-refuting-reductive-and-non-reductive-physicalism)
+  - [11. A Challenge to Dualism-Interactionism – The Libet Experiments](#11-a-challenge-to-dualism-interactionism--the-libet-experiments)
+  - [12. The Origin of the Soul](#12-the-origin-of-the-soul)
+  - [13. The Question of the Historicity of Adam and Eve](#13-the-question-of-the-historicity-of-adam-and-eve)
+  - [14. When Did Adam Live?](#14-when-did-adam-live)
+  - [15. Were Neanderthals Humans?](#15-were-neanderthals-humans)
+  - [16. Locating the Historical Adam](#16-locating-the-historical-adam)
+  - [17. Genetic Challenges to Adam and Eve](#17-genetic-challenges-to-adam-and-eve)
+  - [18. Putting It All Together](#18-putting-it-all-together)
+  - [19. Man as Sinner](#19-man-as-sinner)
+  - [20. The Fall of Man and the Nature of Sin](#20-the-fall-of-man-and-the-nature-of-sin)
+  - [21. Evaluating the Nature of Sin](#21-evaluating-the-nature-of-sin)
+  - [22. Original Sin](#22-original-sin)
+  - [23. Original Sin: Semi-Pelagianism, Reformation, Enlightenment, Modern Era](#23-original-sin-semi-pelagianism-reformation-enlightenment-modern-era)
+  - [24. Evaluating the Doctrine of Original Sin](#24-evaluating-the-doctrine-of-original-sin)
+  - [25. A Continued Evaluation of Original Sin](#25-a-continued-evaluation-of-original-sin)
+  - [26. Freedom of the Will](#26-freedom-of-the-will)
+  - [27. The Catholic View of Freedom of the Will](#27-the-catholic-view-of-freedom-of-the-will)
+  - [28. Freedom of the Will and Romans 10](#28-freedom-of-the-will-and-romans-10)
 - [S11. Doctrine of Salvation](#s11-doctrine-of-salvation)
   - [1. The Doctrine of Election](#1-the-doctrine-of-election)
   - [2. Election and Calvinism Continued](#2-election-and-calvinism-continued)
@@ -247,18 +247,18 @@ published: true
   - [7. The Mystical Union with Christ - Continued](#7-the-mystical-union-with-christ---continued)
   - [8. Metaphors for Mystical Union](#8-metaphors-for-mystical-union)
   - [9. Application of Mystical Union to Our Lives](#9-application-of-mystical-union-to-our-lives)
-  - [10.Regeneration / New Birth](#10regeneration--new-birth)
-  - [11.How Regeneration Occurs](#11how-regeneration-occurs)
-  - [12.Different Views of Justification](#12different-views-of-justification)
-  - [13.Assessment of Competing Views of Justification](#13assessment-of-competing-views-of-justification)
-  - [14.The New Perspective on Paul](#14the-new-perspective-on-paul)
-  - [15.New Perspective on Paul Continued](#15new-perspective-on-paul-continued)
-  - [16.Imputed Righteousness](#16imputed-righteousness)
-  - [17.The Grounds, Means, and Results of Justification](#17the-grounds-means-and-results-of-justification)
-  - [18.Perseverance of the Saints - Calvinism](#18perseverance-of-the-saints---calvinism)
-  - [19.Perseverance of the Saints - Arminianism](#19perseverance-of-the-saints---arminianism)
-  - [20.Warnings Against Apostasy](#20warnings-against-apostasy)
-  - [21.Assessment of the Competing Views on Perseverance](#21assessment-of-the-competing-views-on-perseverance)
+  - [10. Regeneration / New Birth](#10-regeneration--new-birth)
+  - [11. How Regeneration Occurs](#11-how-regeneration-occurs)
+  - [12. Different Views of Justification](#12-different-views-of-justification)
+  - [13. Assessment of Competing Views of Justification](#13-assessment-of-competing-views-of-justification)
+  - [14. The New Perspective on Paul](#14-the-new-perspective-on-paul)
+  - [15. New Perspective on Paul Continued](#15-new-perspective-on-paul-continued)
+  - [16. Imputed Righteousness](#16-imputed-righteousness)
+  - [17. The Grounds, Means, and Results of Justification](#17-the-grounds-means-and-results-of-justification)
+  - [18. Perseverance of the Saints - Calvinism](#18-perseverance-of-the-saints---calvinism)
+  - [19. Perseverance of the Saints - Arminianism](#19-perseverance-of-the-saints---arminianism)
+  - [20. Warnings Against Apostasy](#20-warnings-against-apostasy)
+  - [21. Assessment of the Competing Views on Perseverance](#21-assessment-of-the-competing-views-on-perseverance)
 - [S12. Doctrine of the Church](#s12-doctrine-of-the-church)
   - [1. Introduction](#1-introduction-2)
   - [2. Baptism](#2-baptism)
@@ -269,9 +269,9 @@ published: true
   - [7. Believer’s Baptism](#7-believers-baptism)
   - [8. The Lord’s Supper](#8-the-lords-supper)
   - [9. Transubstantiation](#9-transubstantiation)
-  - [10.The Lord’s Supper - Roman Catholic Interpretation cont'd](#10the-lords-supper---roman-catholic-interpretation-contd)
-  - [11.Consubstantiation and Other Views](#11consubstantiation-and-other-views)
-  - [12.Assessment of Competing Views on the Lord’s Supper](#12assessment-of-competing-views-on-the-lords-supper)
+  - [10. The Lord’s Supper - Roman Catholic Interpretation cont'd](#10-the-lords-supper---roman-catholic-interpretation-contd)
+  - [11. Consubstantiation and Other Views](#11-consubstantiation-and-other-views)
+  - [12. Assessment of Competing Views on the Lord’s Supper](#12-assessment-of-competing-views-on-the-lords-supper)
 - [S13. Doctrine of the Last Things](#s13-doctrine-of-the-last-things)
   - [1. The Second Coming of Christ](#1-the-second-coming-of-christ)
   - [2. The Rapture Interpretation](#2-the-rapture-interpretation)
@@ -3198,7 +3198,7 @@ published: true
    1. Origen: Satan will be saved -&gt; heresy
    2. St. Anselm: human beings were elected to replace the number of the fallen angels
 
-### 23.[The Nature of Demons](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-23)
+### 23. [The Nature of Demons](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-23)
 
 1. intelligent beings
 2. spiritual beings
@@ -3209,7 +3209,7 @@ published: true
    1. this doesn't mean there's something magical about the name of Jesus
 7. know their own end
 
-### 24.[The Work of Demons](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-24)
+### 24. [The Work of Demons](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-24)
 
 1. blind unbelievers to the truth of the Gospel
 2. seek to nullify the preaching of the Kingdom
@@ -3326,7 +3326,7 @@ published: true
    2. Genesis account represents God's coming to reside in the world as his cosmic temple -&gt; no evidence
 3. Can creation in Genesis 1 be both material and functional? this is what most believe but Walton thinks NO
 
-### 10.[The Monotheistic Hebrew Myth Interpretation](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-10)
+### 10. [The Monotheistic Hebrew Myth Interpretation](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-10)
 
 1. In the Beginning. . . We Misunderstood by Johnny Miller and John Soden:
 2. Genesis 1:1 to 2:3 is not to be taken literally
@@ -3334,7 +3334,7 @@ published: true
 4. difference between them lies not in their literary genre but rather in their theology
 5. In contrast to the polytheistic Egyptian myths, Genesis is a monotheistic Hebrew myth
 
-### 11.[An Assessment of the Monotheistic Hebrew Myth Interpretation](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-11)
+### 11. [An Assessment of the Monotheistic Hebrew Myth Interpretation](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-11)
 
 1. myth: various meanings (erroneous statement to an archetypal theme)
 2. folklore: three types of narrative:
@@ -3348,7 +3348,7 @@ published: true
    2. the texts are causally linked
    3. causal connection is asymmetrical
 
-### 12.[Examining the Supposed Parallels Between Genesis and Egyptian Myths](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-12)
+### 12. [Examining the Supposed Parallels Between Genesis and Egyptian Myths](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-12)
 
 1. Gospels: not myths, but ancient biographies
 2. Gilgamesh vs Genesis
@@ -3357,37 +3357,37 @@ published: true
    2. primordial darkness and water are very popular motifs
 4. similar themes and has similar etiological but that's all
 
-### 13.[Did Genesis Borrow From Babylonian Myths?](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-13)
+### 13. [Did Genesis Borrow From Babylonian Myths?](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-13)
 
 1. Enuma Elish aka Babylonian Genesis
 2. Genesis 1 not influenced by this myth &lt;-&gt; Peter Enns in his book The Evolution of Adam
 3. reproduced errors by Alexander Heidel
 
-### 14.[Etiological Motifs in Genesis 2](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-14)
+### 14. [Etiological Motifs in Genesis 2](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-14)
 
 1. Gen 1: origin of the world (cosmogonic myths), Gen 2: origin of mankind (anthropic myths)
 2. Genesis 2 is the original creation of humanity, not some later creation of a special pair.
 3. no etiology for evil
 4. pattern of Sabbath
 
-### 15.[Genealogies in Genesis 1-11](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-15)
+### 15. [Genealogies in Genesis 1-11](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-15)
 
 1. genealogy: written or oral expression of the descent of a person from an ancestor or ancestors
 2. linear vs segmented genealogy
 3. genealogies as the backbone of Genesis 1-11
 
-### 16.[Genealogies in Genesis 1-11 (continued)](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-16)
+### 16. [Genealogies in Genesis 1-11 (continued)](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-16)
 
 1. ancient genealogies meant to be taken literally
 2. common features: telescoping (collapsing generations) and fluidity
 3. despite the historical interest, we shouldn't press them too hard for their literal interpretation
 
-### 17.[The Genre of Mytho-History](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-17)
+### 17. [The Genre of Mytho-History](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-17)
 
 1. Genesis 1-11: Hebrew myths with an interest in history -&gt; mytho-history
 2. prone to misunderstanding but still this is the correct classification
 
-### 18.[Is the Biblical Primeval History To Be Understood as Literally True?](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-18)
+### 18. [Is the Biblical Primeval History To Be Understood as Literally True?](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-18)
 
 1. no direct access to the adherents of ancient myths -&gt; comparative anthropological studies / Ancient Near Eastern literature
 2. primitive societies can distinguish between factual and fictional narratives
@@ -3399,13 +3399,13 @@ published: true
 6. Ancient Near Eastern myths are often highly metaphorical rather than literal
 7. their plasticity and flexibility also indicate that they are not best interpreted literally
 
-### 19.[The Plasticity and Flexibility of ANE Myths](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-19)
+### 19. [The Plasticity and Flexibility of ANE Myths](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-19)
 
 1. Egypt: greatest plasticity and flexibility of its myths
 2. “cosmic geography”: sky ~ solid dome over the Earth
 3. “rakia”: the whole sky. All that can be seen above the Earth from the surface.
 
-### 20.[Why Think Genesis 1-11 is Mytho-History?](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-20)
+### 20. [Why Think Genesis 1-11 is Mytho-History?](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-20)
 
 1. Ancient Near Eastern literature that myths are not always best interpreted literalistically
 2. non-literal interpretation of Gen 1-11 is very plausible
@@ -3416,7 +3416,7 @@ published: true
    2. Tree of Life and Tree of the Knowledge of Good and Evil
    3. cherubims: not thought to be real beings
 
-### 21.[Why Read Genesis 1-3 Figuratively?](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-21)
+### 21. [Why Read Genesis 1-3 Figuratively?](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-21)
 
 1. Genesis 2 and 3 not theophany (in contrast to Gen 18)
    1. Genesis 2 and 3 God is described anthropomorphically even when he is not appearing to Adam
@@ -3425,7 +3425,7 @@ published: true
    2. In Genesis 1 God creates the animals prior to his creation of man, but in Genesis 2:18-19 God creates man before creating the animals.
    3. Why was the author so blasé about these apparent inconsistencies? Well, plausibly because he didn't intend his story to be read literalistically.
 
-### 22.[The Central Truths Expressed in Genesis 1-11](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-22)
+### 22. [The Central Truths Expressed in Genesis 1-11](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-22)
 
 1. central truths expressed in the primeval history
    1. God is one, a personal transcendent creator of all physical reality, perfectly good and worthy of worship.
@@ -3439,7 +3439,7 @@ published: true
    9. Human sin is agglomerative and self-destructive resulting in God's just judgment.
    10. Despite human rebellion against God, God's original purpose to bless all mankind remains intact as he graciously finds a way to work his will despite human defiance.
 
-### 23.[Adam in the New Testament](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-23)
+### 23. [Adam in the New Testament](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-23)
 
 1. Adam is scarcely mentioned in OT after Gen 1-11
 2. NT:
@@ -3462,7 +3462,7 @@ published: true
    4. Paul's allusion in 1 Corinthians 10:4 to the Rock which accompanied the ancient Israelites through their wilderness wanderings
 8. just because some NT author refers to a literary figure, it doesn’t mean the figure is asserted to be a historical person - it doesn’t mean the figure is unhistorical either; it just short-circuits overly easy proofs of historicity.
 
-### 24.[New Testament Authors’ Use of the Literary Adam](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-24)
+### 24. [New Testament Authors’ Use of the Literary Adam](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-24)
 
 1. avoid overly easy proofs of Old Testament historicity using New Testament citations of Old Testament passages
 2. e.g. we cannot simply prove Jonah’s historicity by citing the words of Jesus
@@ -3474,7 +3474,7 @@ published: true
    2. Acts 17:26 - Paul seems to be assertoric in nature. It is describing the historical advance of peoples throughout the world from their common historical origin in Adam
    3. Paul’s contrast between Adam and Christ in 1 Corinthians 15 and Romans 5 -&gt; historical Adam
 
-### 25.[Paul’s Use of Adam in 1 Corinthians 15](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-25)
+### 25. [Paul’s Use of Adam in 1 Corinthians 15](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-25)
 
 1. Paul’s use of Adam in 1 Corinthians 15:21-22, 45-46 and then in Romans 5:12-21
 2. question: is Paul’s use of Adam is a merely literary figure?
@@ -3482,7 +3482,7 @@ published: true
 4. Adam was created with a mortal natural body
 5. Paul in 1 Corinthians 15 associates human mortality with the creation of Adam, not with his Fall. Adam is created with a _sōma psychikon_; he does not get one by sinning.
 
-### 26.[Paul’s Use of Adam in Romans 5](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-26)
+### 26. [Paul’s Use of Adam in Romans 5](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-26)
 
 1. Romans 5:12-21
 2. Paul does not explain how Adam’s sin is transmitted
@@ -3491,7 +3491,7 @@ published: true
    3. traditional doctrine of Original Sin includes both
 3. ficional action cannot have external effects -&gt; Adam must be historical
 
-### 27.[Scientific Evidence Pertinent to the Origin and Evolution of Biological Complexity](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-27)
+### 27. [Scientific Evidence Pertinent to the Origin and Evolution of Biological Complexity](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-27)
 
 1. there are multiple possible interpretations of Genesis for Christians
 2. two most plausible interpretive options are the literal Young Earth Creationist interpretation and the mytho-historical interpretation
@@ -3502,13 +3502,13 @@ published: true
 6. If we do adopt the Young Earth Creationist interpretation then it seems we have no choice but to radically revise the doctrine of inspiration
 7. Young Earth Creationism is in massive conflict with modern science, history, and linguistics
 
-### 28.[Is Genesis 1 in Conflict With the Theory of Evolution?](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-28)
+### 28. [Is Genesis 1 in Conflict With the Theory of Evolution?](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-28)
 
 1. random: doesn’t mean by chance or purposelessly (out of scope for science)
    1. BUT: randomly = irrespective of their usefulness to the organism (Francisco Ayala)
 2. materialist: only evolution, Christian is not restricted, can follow the evidence where it leads
 
-### 29.[Methodological Naturalism](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-29)
+### 29. [Methodological Naturalism](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-29)
 
 1. many argue that science is committed to methodological (not metaphysical!) naturalism
    1. Metaphysical naturalism: reality consists simply of space-time and its contents (the physical world).
@@ -3519,7 +3519,7 @@ published: true
    1. life originated in the so-called primordial soup
       1. BUT: natural destructive processes in the primordial oceans would have prevented these chemical reactions that supposedly led to life that allowed Miller to synthesize his amino acids
 
-### 30.[Three Aspects of the Evolutionary Paradigm](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-30)
+### 30. [Three Aspects of the Evolutionary Paradigm](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-30)
 
 1. **origin of life**
    1. _The Mystery of Life's Origin_ by Bradley, Olsen, and Thaxton
@@ -3549,7 +3549,7 @@ published: true
                1. extrapolation to explain not only minor but larger changes (e.g. new species)
       4. aspect 2 and 3 are still not well understood
 
-### 31.[Examining the Thesis of Common Ancestry](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-31)
+### 31. [Examining the Thesis of Common Ancestry](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-31)
 
 1. Are all living things descended from a single primordial ancestor?
 2. strongest evidence of common ancestry: genetic similarity
@@ -3568,7 +3568,7 @@ published: true
    3. if the thesis of common ancestry is true there should be literally millions and millions of transitional forms in the fossil record
    4. This problem can no longer be dismissed by saying that we just haven't dug deep enough.
 
-### 32.[Evidence for the Neo-Darwinian Mechanisms](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-32)
+### 32. [Evidence for the Neo-Darwinian Mechanisms](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-32)
 
 1. evolution within a single kind like that is just nothing compared to the whole range of life
 2. extrapolation neo-Darwinianism from peppered moths and fruit flies to every living thing is breathtaking
@@ -3588,7 +3588,7 @@ published: true
       1. BUT: it shows the limits!
       2. e.g. malaria always becomes drug-resistant yet it could never overcome sickle hemoglobin (deadly mutation in the respiratory system)
 
-### 33.[Inadequacies of the Neo-Darwinian Mechanisms](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-33)
+### 33. [Inadequacies of the Neo-Darwinian Mechanisms](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-33)
 
 1. Behe case studies
    1. HIV
@@ -3609,7 +3609,7 @@ published: true
    4. Neo-Lamarckianism
    5. Natural genetic engineering
 
-### 34.[Progressive Creationism – Integrating the Scientific Evidence with the Genesis Narrative](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-34)
+### 34. [Progressive Creationism – Integrating the Scientific Evidence with the Genesis Narrative](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/excursus-on-creation-of-life-and-biological-diversity/excursus-on-creation-of-life-and-biological-diversity-part-34)
 
 1. integrate the scientific evidence with Genesis narrative: progressive creationism
    1. God intervenes periodically to bring about miraculously new forms of life and then allows natural evolutionary change to take place with respect to those life forms
@@ -3772,7 +3772,7 @@ published: true
    3. _The resurrection of the body threatens to reduce to God's creating a replica of you rather than actually raising you from the dead_
    4. _incarnation becomes very difficult if not impossible_
 
-### 10.[Refuting Reductive and Non-Reductive Physicalism](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part10)
+### 10. [Refuting Reductive and Non-Reductive Physicalism](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part10)
 
 1. physicalist view of the mind has been waning in recent years among professional philosophers (The Waning of Materialism)
 2. accounts of the mind
@@ -3793,7 +3793,7 @@ published: true
             4. no mental causation (only brain causes)
    2. dualism
 
-### 11.[A Challenge to Dualism-Interactionism – The Libet Experiments](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-11)
+### 11. [A Challenge to Dualism-Interactionism – The Libet Experiments](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-11)
 
 1. **Libet’s experiments**
 2. brain scientist named Benjamin Libet
@@ -3823,7 +3823,7 @@ published: true
        1. soul in relation to God -&gt; “spirit”
        2. soul in everyday functions -&gt; “soul”
 
-### 12.[The Origin of the Soul](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-12)
+### 12. [The Origin of the Soul](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-12)
 
 1. four views:
    1. pre-existence of the soul
@@ -3847,7 +3847,7 @@ published: true
       3. mental substance as something that emerges from a physical system when that physical system reaches a certain level of complexity
       4. BUT: not real dualism
 
-### 13.[The Question of the Historicity of Adam and Eve](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-13)
+### 13. [The Question of the Historicity of Adam and Eve](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-13)
 
 1. does Bible teach historical Adam?
    1. symbolic significance (names)
@@ -3857,7 +3857,7 @@ published: true
       3. Paul treats Adam as a historical figure (e.g. Acts 17:26)
       4. Paul draws parallels between Adam and Jesus as historical individuals, not merely as literary figures
 
-### 14.[When Did Adam Live?](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-14)
+### 14. [When Did Adam Live?](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-14)
 
 1. equivalent question: when did human beings first appear on Earth?
 2. terminology
@@ -3877,7 +3877,7 @@ published: true
 4. earliest possible point: 300,000 yrs
 5. latest point: 50,000 yrs ago
 
-### 15.[Were Neanderthals Humans?](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-15)
+### 15. [Were Neanderthals Humans?](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-15)
 
 1. absolute brain size: valid measure for hominins (not e.g. for elephants)
    1. encephalization quotient: ratio between brain size and body mass
@@ -3888,12 +3888,12 @@ published: true
       2. Neanderthal art
       3. Schöningen spears
 
-### 16.[Locating the Historical Adam](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-16)
+### 16. [Locating the Historical Adam](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-16)
 
 1. _Homo heidelbergensis_ “cosmopolitan hominid species”
 2. Adam may be plausibly identified as a member of _Homo heidelbergensis_, living perhaps sometime earlier than 750,000 years ago
 
-### 17.[Genetic Challenges to Adam and Eve](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-17)
+### 17. [Genetic Challenges to Adam and Eve](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-17)
 
 1. evolution does not proceed along an isolated individual line but whole populations evolve over time
 2. biology recap:
@@ -3920,13 +3920,13 @@ published: true
 4. the existence of a historical Adam and Eve need not imply their sole genetic progenitorship, especially over tens of thousands of years
 5. conclusion, Adam and Eve may be plausibly identified as members of the species _Homo heidelbergensis_ and as the founding pair at the root of all human species
 
-### 18.[Putting It All Together](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-18)
+### 18. [Putting It All Together](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-18)
 
 1. Genesis 1-11: mytho-history
 2. human beings ought not to be identified with _Homo sapiens_ alone but ought also to include Neanderthals too
 3. Adam and Eve may be plausibly identified as belonging to the last common ancestor of _Homo sapiens_ and Neanderthals, usually denominated _Homo heidelbergensis_
 
-### 19.[Man as Sinner](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-19)
+### 19. [Man as Sinner](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-19)
 
 1. Scriptures relevant to the doctrine of the Fall
    1. Genesis 3:1-7
@@ -3962,7 +3962,7 @@ published: true
    1. Fall is myth (=figurative)
    2. not historical event but symbol of man’s general condition
 
-### 20.[The Fall of Man and the Nature of Sin](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-20)
+### 20. [The Fall of Man and the Nature of Sin](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-20)
 
 1. interpretation of the Fall of Adam and Eve
    1. Adam and Eve do have a symbolic significance
@@ -3983,7 +3983,7 @@ published: true
       1. weakness of our God consciousness (Friedrich Schleiermacher)
       2. failure to recognize your unity with Go (Paul Tillich)
 
-### 21.[Evaluating the Nature of Sin](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-21)
+### 21. [Evaluating the Nature of Sin](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-21)
 
 1. Romans 5:12-14
 2. even if people lied and stole and murdered and so on prior to the giving of the Mosaic law, how could such acts count as sin, since they had not been forbidden? -&gt; “where there is no law there is no transgression” (Romans 4:15)
@@ -4002,7 +4002,7 @@ published: true
 8. most fundamental sin: unbelief
    1. unbelief separates us from God’s saving grace
 
-### 22.[Original Sin](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-22)
+### 22. [Original Sin](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-22)
 
 1. not in Psalm 51:5 (-&gt; poetry)
 2. base texts
@@ -4028,7 +4028,7 @@ published: true
       4. corruption of sin comes however through imitation, not through inheritance
       5. man needs God’s grace in order to resist sin but he has already given in to him
 
-### 23.[Original Sin: Semi-Pelagianism, Reformation, Enlightenment, Modern Era](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-23)
+### 23. [Original Sin: Semi-Pelagianism, Reformation, Enlightenment, Modern Era](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-23)
 
 1. Semi-Pelagianism
    1. closer to the Augustine’s view
@@ -4046,7 +4046,7 @@ published: true
    2. original sin: incoherent, moral impossibility
    3. Friedrich Schleiermacher’s reinterpretation: original sin = weakening God consciousness
 
-### 24.[Evaluating the Doctrine of Original Sin](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-24)
+### 24. [Evaluating the Doctrine of Original Sin](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-24)
 
 1. Augustine’s view of original sin is going to depend upon our exegesis of Romans 5:12-21:
    1. Augustine’s doctrine was in fact based upon a mistranslation of Romans 5:12
@@ -4058,7 +4058,7 @@ published: true
    1. inherent self-seeking animal nature in combination with the web of corruption in which we are born and raised explains the universality of sin
    2. Adam was the floodgate through which sin and death entered the world, and death then spread to all men because each one sinned in his own turn
 
-### 25.[A Continued Evaluation of Original Sin](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-25)
+### 25. [A Continued Evaluation of Original Sin](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-25)
 
 1. Romans 5:
    1. Paul does not teach either the **imputation** of Adam’s sin to all men or nor **corrupted human** nature inherited from Adam
@@ -4086,7 +4086,7 @@ published: true
    1. entertainment industry is thoroughly corrupted by graphic violence, sexuality, and profanity
    2. “deep state” to carry out, in effect, a presidential coup, by the spurious accusations which lay at the root of the Muller investigation
 
-### 26.[Freedom of the Will](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-26)
+### 26. [Freedom of the Will](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-26)
 
 1. scriptures:
    1. Ephesians 2:8-9
@@ -4104,7 +4104,7 @@ published: true
       5. God’s grace is irresistible by human beings
       6. _sola gratia_: salvation by grace alone
 
-### 27.[The Catholic View of Freedom of the Will](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-27)
+### 27. [The Catholic View of Freedom of the Will](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-27)
 
 1. Council of Trent (1545-1563)
    1. _God’s prevenient grace_. This first step is from God’s side.
@@ -4120,7 +4120,7 @@ published: true
    2. but broadening the scope (Jews -&gt; Gentiles too)
    3. being descended from Abraham physically is no guarantee -&gt; faith is needed
 
-### 28.[Freedom of the Will and Romans 10](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-28)
+### 28. [Freedom of the Will and Romans 10](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-man/doctrine-of-man-part-28)
 
 1. Galatians 3:6-9
    1. true sons of Abraham: not physically descendants but those who have faith in Christ Jesus
@@ -4275,7 +4275,7 @@ published: true
    4. summons to closer fellowship with Christ
    5. source of security for us as believers
 
-### 10.[Regeneration / New Birth](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-10)
+### 10. [Regeneration / New Birth](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-10)
 
 1. John 1:12-13,John 3:1ff
 2. _regeneration_ = to be born again, an act of the Holy Spirit whereby a person becomes spiritual alive and a child of God
@@ -4290,7 +4290,7 @@ published: true
       3. justification is forensic/legal, regeneration is experiential -&gt; actual change takes place in you
    5. _new birth is available to anyone_. John 3:3
 
-### 11.[How Regeneration Occurs](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-11)
+### 11. [How Regeneration Occurs](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-11)
 
 1. John 3
    1. new birth is not a matter of religious heritage (v1)
@@ -4305,7 +4305,7 @@ published: true
       2. _placing one’s faith in Christ_
 3. “receiving Christ” ~ receiving the Holy Spirit (Romans 8:9-10)
 
-### 12.[Different Views of Justification](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-12)
+### 12. [Different Views of Justification](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-12)
 
 1. **Protestant view:**
    1. justification is a forensic term
@@ -4318,7 +4318,7 @@ published: true
    4. justification is thus both an event and a process
    5. good works increase of your justification
 
-### 13.[Assessment of Competing Views of Justification](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-13)
+### 13. [Assessment of Competing Views of Justification](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-13)
 
 1. Protestant Reformers correctly understood Paul to be talking about a legal act whereby we are reckoned to be righteous
 2. opposite of justification is condemnation, not moral turpitude
@@ -4332,7 +4332,7 @@ published: true
    1. you _get into_ the covenant by God’s grace but *stay in i*t by doing good works
    2. Paul’s view ~ Palestinian Judaism
 
-### 14.[The New Perspective on Paul](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-14)
+### 14. [The New Perspective on Paul](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-14)
 
 1. Reformers misunderstood Paul
 2. he’s not really saying anything new
@@ -4347,14 +4347,14 @@ published: true
       2. but rather in the purely logical sense: genuine saving faith doesn’t exist without being accompanied by these good works
    6. good works _are_ necessary for salvation but not _contributory_ to salvation
 
-### 15.[New Perspective on Paul Continued](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-15)
+### 15. [New Perspective on Paul Continued](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-15)
 
 1. “the righteousness of God” = God’s faithfulness to the covenant
 2. BUT: faithfulness is not enough for salvation
 3. what the opposite of righteousness? not unfaithfulness but ungodliness (Romans 1:18) or lawlessness (2 Corinthians 6:14)
 4. linguistically untenable -&gt; backed away
 
-### 16.[Imputed Righteousness](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-16)
+### 16. [Imputed Righteousness](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-16)
 
 1. Reformation view: justification involves dual imputation
    1. My sin and guilt are imputed to Christ
@@ -4363,7 +4363,7 @@ published: true
       2. BUT: this makes faith a meritorious work
 2. conclusion: good biblical gounds for both
 
-### 17.[The Grounds, Means, and Results of Justification](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-17)
+### 17. [The Grounds, Means, and Results of Justification](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-17)
 
 1. grounds of justification
    1. first, in God’s free will and mercy (Titus 3:5-7)
@@ -4375,7 +4375,7 @@ published: true
    3. inheritance (Galatians 4:6-7)
    4. citizenship (Philippians 3:20)
 
-### 18.[Perseverance of the Saints - Calvinism](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-18)
+### 18. [Perseverance of the Saints - Calvinism](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-18)
 
 1. Calvinist perspective: elect cannot fall away (John 6:39-40, John 10:27-30, John 17:11, 1 John 3:9, Ephesians 1:13-14)
 2. scripture warning of apostasy (Hebrews 6:1-8, Hebrews 10:26-31)
@@ -4383,18 +4383,18 @@ published: true
    1. these ppl are not really Christians
    2. Holy Spirit uses means to preserve Christians in the faith, including such warnings
 
-### 19.[Perseverance of the Saints - Arminianism](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-19)
+### 19. [Perseverance of the Saints - Arminianism](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-19)
 
 1. Arminian’s view: it is possible for a person who is a born-again Christian to lose his salvation and go to perdition
    1. elect of God are corporately secure only (Romans 8:33-39)
    2. individual’s perseverance in the faith is contingent (Romans 11:17-32, Colossians 1:23)
 
-### 20.[Warnings Against Apostasy](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-20)
+### 20. [Warnings Against Apostasy](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-20)
 
 1. Arminian takes these warnings at face value
    1. warnings are written to Christian believers (Hebrews 3:1,6,12-14, Hebrews 10:32-36, Hebrews 6:1-8, Hebrews 10:26-31, 2 Peter 2:20-22, John 15:1-6)
 
-### 21.[Assessment of the Competing Views on Perseverance](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-21)
+### 21. [Assessment of the Competing Views on Perseverance](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-salvation/doctrine-of-salvation-part-21)
 
 1. apparent conflict between various texts in the New Testament
 2. biblical authors disagreed about this subject?
@@ -4530,12 +4530,12 @@ published: true
 5. “the fount and apex of the whole Christian life.” (Second Vatican Council)
    1. you consume the accidents -&gt; that is why they’re not used up
 
-### 10.[The Lord’s Supper - Roman Catholic Interpretation cont'd](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-church/doctrine-of-the-church-part-10)
+### 10. [The Lord’s Supper - Roman Catholic Interpretation cont'd](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-church/doctrine-of-the-church-part-10)
 
 1. Eucharist is a _sacrifice_ offered to God
 2. Trent declared that the sacrifice of the Mass is propitiatory
 
-### 11.[Consubstantiation and Other Views](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-church/doctrine-of-the-church-part-11)
+### 11. [Consubstantiation and Other Views](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-church/doctrine-of-the-church-part-11)
 
 1. consubstantiation
    1. Lutheran doctrine
@@ -4551,7 +4551,7 @@ published: true
 4. ordinance view: Zwingli
    1. Baptist churches
 
-### 12.[Assessment of Competing Views on the Lord’s Supper](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-church/doctrine-of-the-church-part-12)
+### 12. [Assessment of Competing Views on the Lord’s Supper](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-church/doctrine-of-the-church-part-12)
 
 1. doctrine of transubstantiation
    1. no scriptural support
