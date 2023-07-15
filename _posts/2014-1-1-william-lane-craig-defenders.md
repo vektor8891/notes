@@ -19,7 +19,7 @@ published: true
   - [7. Inerrancy](#7-inerrancy)
   - [8. Difficulties](#8-difficulties)
   - [9. Responding to Difficulties](#9-responding-to-difficulties)
-  - [10.Canonicity](#10canonicity)
+  - [10. Canonicity](#10-canonicity)
 - [S3: DOCTRINE OF GOD: ATTRIBUTES OF GOD](#s3-doctrine-of-god-attributes-of-god)
   - [1. Introduction](#1-introduction-1)
   - [2. Divine Aseity](#2-divine-aseity)
@@ -52,43 +52,43 @@ published: true
   - [7. The Argument from Contingency Part 3](#7-the-argument-from-contingency-part-3)
   - [8. The Kalam Cosmological Argument](#8-the-kalam-cosmological-argument)
   - [9. 1st Philosophical Argument for the Beginning of the Universe](#9-1st-philosophical-argument-for-the-beginning-of-the-universe)
-  - [10.2nd Philosophical Argument for the Beginning of the Universe](#102nd-philosophical-argument-for-the-beginning-of-the-universe)
-  - [11.Scientific Confirmation of the Beginning of the Universe](#11scientific-confirmation-of-the-beginning-of-the-universe)
-  - [12.Scientific Confirmation of the Beginning of the Universe Part 2](#12scientific-confirmation-of-the-beginning-of-the-universe-part-2)
-  - [13.2nd Scientific Confirmation of the Beginning of the Universe](#132nd-scientific-confirmation-of-the-beginning-of-the-universe)
-  - [14.The Teleological Argument](#14the-teleological-argument)
-  - [15.The Teleological Argument Part 2](#15the-teleological-argument-part-2)
-  - [16.The Teleological Argument Part 3](#16the-teleological-argument-part-3)
-  - [17.The Teleological Argument Part 4](#17the-teleological-argument-part-4)
-  - [18.The Moral Argument](#18the-moral-argument)
-  - [19.Questions About the Moral Argument](#19questions-about-the-moral-argument)
-  - [20.The Moral Argument Part 3](#20the-moral-argument-part-3)
-  - [21.The Moral Argument Part 4](#21the-moral-argument-part-4)
-  - [22.The Moral Argument Part 5](#22the-moral-argument-part-5)
-  - [23.The Ontological Argument](#23the-ontological-argument)
-  - [24.The Ontological Argument Part 2](#24the-ontological-argument-part-2)
-  - [25.Q\&A on the Ontological Argument](#25qa-on-the-ontological-argument)
-  - [26.The Ontological Argument](#26the-ontological-argument)
-  - [27.Arguments Against God's Existence](#27arguments-against-gods-existence)
-  - [28.The Presumption of Atheism](#28the-presumption-of-atheism)
-  - [29.The Hiddenness of God](#29the-hiddenness-of-god)
-  - [30.The Problem of Evil and Suffering (1)](#30the-problem-of-evil-and-suffering-1)
-  - [31.The Problem of Evil and Suffering (2)](#31the-problem-of-evil-and-suffering-2)
-  - [32.The Problem of Evil and Suffering (3)](#32the-problem-of-evil-and-suffering-3)
-  - [33.The Problem of Evil and Suffering (4)](#33the-problem-of-evil-and-suffering-4)
-  - [34.The Emotional Version of the Problem of Evil](#34the-emotional-version-of-the-problem-of-evil)
+  - [10. 2nd Philosophical Argument for the Beginning of the Universe](#10-2nd-philosophical-argument-for-the-beginning-of-the-universe)
+  - [11. Scientific Confirmation of the Beginning of the Universe](#11-scientific-confirmation-of-the-beginning-of-the-universe)
+  - [12. Scientific Confirmation of the Beginning of the Universe Part 2](#12-scientific-confirmation-of-the-beginning-of-the-universe-part-2)
+  - [13. 2nd Scientific Confirmation of the Beginning of the Universe](#13-2nd-scientific-confirmation-of-the-beginning-of-the-universe)
+  - [14. The Teleological Argument](#14-the-teleological-argument)
+  - [15. The Teleological Argument Part 2](#15-the-teleological-argument-part-2)
+  - [16. The Teleological Argument Part 3](#16-the-teleological-argument-part-3)
+  - [17. The Teleological Argument Part 4](#17-the-teleological-argument-part-4)
+  - [18. The Moral Argument](#18-the-moral-argument)
+  - [19. Questions About the Moral Argument](#19-questions-about-the-moral-argument)
+  - [20. The Moral Argument Part 3](#20-the-moral-argument-part-3)
+  - [21. The Moral Argument Part 4](#21-the-moral-argument-part-4)
+  - [22. The Moral Argument Part 5](#22-the-moral-argument-part-5)
+  - [23. The Ontological Argument](#23-the-ontological-argument)
+  - [24. The Ontological Argument Part 2](#24-the-ontological-argument-part-2)
+  - [25. Q\&A on the Ontological Argument](#25-qa-on-the-ontological-argument)
+  - [26. The Ontological Argument](#26-the-ontological-argument)
+  - [27. Arguments Against God's Existence](#27-arguments-against-gods-existence)
+  - [28. The Presumption of Atheism](#28-the-presumption-of-atheism)
+  - [29. The Hiddenness of God](#29-the-hiddenness-of-god)
+  - [30. The Problem of Evil and Suffering (1)](#30-the-problem-of-evil-and-suffering-1)
+  - [31. The Problem of Evil and Suffering (2)](#31-the-problem-of-evil-and-suffering-2)
+  - [32. The Problem of Evil and Suffering (3)](#32-the-problem-of-evil-and-suffering-3)
+  - [33. The Problem of Evil and Suffering (4)](#33-the-problem-of-evil-and-suffering-4)
+  - [34. The Emotional Version of the Problem of Evil](#34-the-emotional-version-of-the-problem-of-evil)
 - [S5: DOCTRINE OF GOD: TRINITY](#s5-doctrine-of-god-trinity)
   - [1. There Is One God](#1-there-is-one-god)
   - [2. Three Distinct Persons in the Godhead](#2-three-distinct-persons-in-the-godhead)
   - [3. The Deity of Christ](#3-the-deity-of-christ)
   - [4. The Holy Spirit](#4-the-holy-spirit)
   - [5. The Historical Survey](#5-the-historical-survey)
-  - [6. Historical Survey (2) | Modalism](#6-historical-survey-2--modalism)
-  - [7. Historical Survey (3) | Arianism](#7-historical-survey-3--arianism)
-  - [8. Historical Survey (4) | Coherence of the Doctrine](#8-historical-survey-4--coherence-of-the-doctrine)
+  - [6. Historical Survey (2) - Modalism](#6-historical-survey-2---modalism)
+  - [7. Historical Survey (3) - Arianism](#7-historical-survey-3---arianism)
+  - [8. Historical Survey (4) - Coherence of the Doctrine](#8-historical-survey-4---coherence-of-the-doctrine)
   - [9. Three Divine Persons, One God](#9-three-divine-persons-one-god)
-  - [10.The Relationship Between Father, Son, and Holy Spirit](#10the-relationship-between-father-son-and-holy-spirit)
-  - [11.A Plausibility Argument for the Trinity](#11a-plausibility-argument-for-the-trinity)
+  - [10. The Relationship Between Father, Son, and Holy Spirit](#10-the-relationship-between-father-son-and-holy-spirit)
+  - [11. A Plausibility Argument for the Trinity](#11-a-plausibility-argument-for-the-trinity)
 - [S6: DOCTRINE OF THE HOLY SPIRIT](#s6-doctrine-of-the-holy-spirit)
   - [1. Third Person of the Trinity](#1-third-person-of-the-trinity)
   - [2. Ministries of the Holy Spirit](#2-ministries-of-the-holy-spirit)
@@ -106,14 +106,14 @@ published: true
   - [7. The Incarnation (7)](#7-the-incarnation-7)
   - [8. The Work of Christ (1) - Christ's Death and Atonement](#8-the-work-of-christ-1---christs-death-and-atonement)
   - [9. The Work of Christ (2) - Propitiatory Sacrifices](#9-the-work-of-christ-2---propitiatory-sacrifices)
-  - [10.The Work of Christ (3) - Christ as Sacrifice](#10the-work-of-christ-3---christ-as-sacrifice)
-  - [11.The Work of Christ (4) - Divine Justice](#11the-work-of-christ-4---divine-justice)
-  - [12.The Work of Christ (5) - Divine Justice (2)](#12the-work-of-christ-5---divine-justice-2)
-  - [13.The Work of Christ (6) - Redemption](#13the-work-of-christ-6---redemption)
-  - [14.The Work of Christ (7) - The Ransom Theory](#14the-work-of-christ-7---the-ransom-theory)
-  - [15.The Work of Christ (8) - Satisfaction Theory](#15the-work-of-christ-8---satisfaction-theory)
-  - [16.The Work of Christ (9) - Moral Influence Theory](#16the-work-of-christ-9---moral-influence-theory)
-  - [17.The Work of Christ (10) - Penal Substitution Theory](#17the-work-of-christ-10---penal-substitution-theory)
+  - [10. The Work of Christ (3) - Christ as Sacrifice](#10-the-work-of-christ-3---christ-as-sacrifice)
+  - [11. The Work of Christ (4) - Divine Justice](#11-the-work-of-christ-4---divine-justice)
+  - [12. The Work of Christ (5) - Divine Justice (2)](#12-the-work-of-christ-5---divine-justice-2)
+  - [13. The Work of Christ (6) - Redemption](#13-the-work-of-christ-6---redemption)
+  - [14. The Work of Christ (7) - The Ransom Theory](#14-the-work-of-christ-7---the-ransom-theory)
+  - [15. The Work of Christ (8) - Satisfaction Theory](#15-the-work-of-christ-8---satisfaction-theory)
+  - [16. The Work of Christ (9) - Moral Influence Theory](#16-the-work-of-christ-9---moral-influence-theory)
+  - [17. The Work of Christ (10) - Penal Substitution Theory](#17-the-work-of-christ-10---penal-substitution-theory)
   - [18. The Work of Christ (11) - Atonement, Doctrinal Reflection](#18-the-work-of-christ-11---atonement-doctrinal-reflection)
   - [19. The Work of Christ (12) - Atonement, Doctrinal Reflection Continued](#19-the-work-of-christ-12---atonement-doctrinal-reflection-continued)
   - [20. The Work of Christ (13) - Atonement, Doctrinal Reflection Continued](#20-the-work-of-christ-13---atonement-doctrinal-reflection-continued)
@@ -123,25 +123,25 @@ published: true
   - [24. The Work of Christ (17) - Atonement, Redemption](#24-the-work-of-christ-17---atonement-redemption)
   - [25. The Work of Christ (18) - The Resurrection](#25-the-work-of-christ-18---the-resurrection)
   - [26. The Work of Christ (19) - The Resurrection Continued](#26-the-work-of-christ-19---the-resurrection-continued)
-  - [27.The Work of Christ (20) - The Resurrection Continued](#27the-work-of-christ-20---the-resurrection-continued)
-  - [28.The Work of Christ (21) - The Resurrection Continued](#28the-work-of-christ-21---the-resurrection-continued)
-  - [29.The Work of Christ (22) - The Resurrection Continued](#29the-work-of-christ-22---the-resurrection-continued)
-  - [30.The Work of Christ (23) - The Resurrection Continued](#30the-work-of-christ-23---the-resurrection-continued)
-  - [31.The Work of Christ (24) - The Post-Mortem Appearances](#31the-work-of-christ-24---the-post-mortem-appearances)
-  - [32.The Work of Christ (25) - The Post-Mortem Appearances](#32the-work-of-christ-25---the-post-mortem-appearances)
-  - [33.The Work of Christ (26) - Resurrection Theories](#33the-work-of-christ-26---resurrection-theories)
-  - [34.The Work of Christ (27) - Resurrection Theories](#34the-work-of-christ-27---resurrection-theories)
-  - [35.The Work of Christ (28) - Resurrection Theories](#35the-work-of-christ-28---resurrection-theories)
-  - [36.The Work of Christ (29) - Facts of the Resurrection](#36the-work-of-christ-29---facts-of-the-resurrection)
-  - [37.The Work of Christ (30) - Facts of the Resurrection](#37the-work-of-christ-30---facts-of-the-resurrection)
-  - [38.The Work of Christ (31) - Facts of the Resurrection](#38the-work-of-christ-31---facts-of-the-resurrection)
-  - [39.The Work of Christ (32) - Facts of the Resurrection](#39the-work-of-christ-32---facts-of-the-resurrection)
-  - [40.The Work of Christ (33) - Facts of the Resurrection](#40the-work-of-christ-33---facts-of-the-resurrection)
-  - [41.The Work of Christ (34) - Facts of the Resurrection](#41the-work-of-christ-34---facts-of-the-resurrection)
-  - [42.The Work of Christ (35) - Resurrection Hypotheses](#42the-work-of-christ-35---resurrection-hypotheses)
-  - [43.The Work of Christ (36) - Resurrection Hypotheses](#43the-work-of-christ-36---resurrection-hypotheses)
-  - [44.The Work of Christ (37) - Resurrection Hypotheses](#44the-work-of-christ-37---resurrection-hypotheses)
-  - [45.The Work of Christ (38) - The Resurrection Hypothesis](#45the-work-of-christ-38---the-resurrection-hypothesis)
+  - [27. The Work of Christ (20) - The Resurrection Continued](#27-the-work-of-christ-20---the-resurrection-continued)
+  - [28. The Work of Christ (21) - The Resurrection Continued](#28-the-work-of-christ-21---the-resurrection-continued)
+  - [29. The Work of Christ (22) - The Resurrection Continued](#29-the-work-of-christ-22---the-resurrection-continued)
+  - [30. The Work of Christ (23) - The Resurrection Continued](#30-the-work-of-christ-23---the-resurrection-continued)
+  - [31. The Work of Christ (24) - The Post-Mortem Appearances](#31-the-work-of-christ-24---the-post-mortem-appearances)
+  - [32. The Work of Christ (25) - The Post-Mortem Appearances](#32-the-work-of-christ-25---the-post-mortem-appearances)
+  - [33. The Work of Christ (26) - Resurrection Theories](#33-the-work-of-christ-26---resurrection-theories)
+  - [34. The Work of Christ (27) - Resurrection Theories](#34-the-work-of-christ-27---resurrection-theories)
+  - [35. The Work of Christ (28) - Resurrection Theories](#35-the-work-of-christ-28---resurrection-theories)
+  - [36. The Work of Christ (29) - Facts of the Resurrection](#36-the-work-of-christ-29---facts-of-the-resurrection)
+  - [37. The Work of Christ (30) - Facts of the Resurrection](#37-the-work-of-christ-30---facts-of-the-resurrection)
+  - [38. The Work of Christ (31) - Facts of the Resurrection](#38-the-work-of-christ-31---facts-of-the-resurrection)
+  - [39. The Work of Christ (32) - Facts of the Resurrection](#39-the-work-of-christ-32---facts-of-the-resurrection)
+  - [40. The Work of Christ (33) - Facts of the Resurrection](#40-the-work-of-christ-33---facts-of-the-resurrection)
+  - [41. The Work of Christ (34) - Facts of the Resurrection](#41-the-work-of-christ-34---facts-of-the-resurrection)
+  - [42. The Work of Christ (35) - Resurrection Hypotheses](#42-the-work-of-christ-35---resurrection-hypotheses)
+  - [43. The Work of Christ (36) - Resurrection Hypotheses](#43-the-work-of-christ-36---resurrection-hypotheses)
+  - [44. The Work of Christ (37) - Resurrection Hypotheses](#44-the-work-of-christ-37---resurrection-hypotheses)
+  - [45. The Work of Christ (38) - The Resurrection Hypothesis](#45-the-work-of-christ-38---the-resurrection-hypothesis)
   - [46. The Work of Christ (39) - The Resurrection Conclusion](#46-the-work-of-christ-39---the-resurrection-conclusion)
   - [47. The Work of Christ (40) - Christian Particularism](#47-the-work-of-christ-40---christian-particularism)
   - [48. The Work of Christ (41) - Christian Particularism](#48-the-work-of-christ-41---christian-particularism)
@@ -158,19 +158,19 @@ published: true
   - [7. More Objections to creatio ex nihilo](#7-more-objections-to-creatio-ex-nihilo)
   - [8. Continuing Conservation](#8-continuing-conservation)
   - [9. Divine Concurrence](#9-divine-concurrence)
-  - [10.Different Views of Divine Providence](#10different-views-of-divine-providence)
-  - [11.A Critical Assessment of Three Views of Divine Providence](#11a-critical-assessment-of-three-views-of-divine-providence)
-  - [12.Arminian And Molinist Accounts of Divine Sovereignty and Human Freedom](#12arminian-and-molinist-accounts-of-divine-sovereignty-and-human-freedom)
-  - [13.The Collapse of the Belief in Miracles](#13the-collapse-of-the-belief-in-miracles)
-  - [14.Arguments Against Miracles](#14arguments-against-miracles)
-  - [15.The Definition of “Miracle”](#15the-definition-of-miracle)
-  - [16.Rebutting Spinoza’s Objections to Miracles](#16rebutting-spinozas-objections-to-miracles)
-  - [17.Hume’s Abject Failure](#17humes-abject-failure)
-  - [18.Determining the Intrinsic Probability of the Resurrection](#18determining-the-intrinsic-probability-of-the-resurrection)
-  - [19.Angels and Demons](#19angels-and-demons)
-  - [20.The Work of Angels](#20the-work-of-angels)
-  - [21.The Names of Satan](#21the-names-of-satan)
-  - [22.The Origin of Satan](#22the-origin-of-satan)
+  - [10. Different Views of Divine Providence](#10-different-views-of-divine-providence)
+  - [11. A Critical Assessment of Three Views of Divine Providence](#11-a-critical-assessment-of-three-views-of-divine-providence)
+  - [12. Arminian And Molinist Accounts of Divine Sovereignty and Human Freedom](#12-arminian-and-molinist-accounts-of-divine-sovereignty-and-human-freedom)
+  - [13. The Collapse of the Belief in Miracles](#13-the-collapse-of-the-belief-in-miracles)
+  - [14. Arguments Against Miracles](#14-arguments-against-miracles)
+  - [15. The Definition of “Miracle”](#15-the-definition-of-miracle)
+  - [16. Rebutting Spinoza’s Objections to Miracles](#16-rebutting-spinozas-objections-to-miracles)
+  - [17. Hume’s Abject Failure](#17-humes-abject-failure)
+  - [18. Determining the Intrinsic Probability of the Resurrection](#18-determining-the-intrinsic-probability-of-the-resurrection)
+  - [19. Angels and Demons](#19-angels-and-demons)
+  - [20. The Work of Angels](#20-the-work-of-angels)
+  - [21. The Names of Satan](#21-the-names-of-satan)
+  - [22. The Origin of Satan](#22-the-origin-of-satan)
   - [23.The Nature of Demons](#23the-nature-of-demons)
   - [24.The Work of Demons](#24the-work-of-demons)
 - [S9: EXCURSUS ON CREATION OF LIFE AND BIOLOGICAL DIVERSITY](#s9-excursus-on-creation-of-life-and-biological-diversity)
@@ -282,17 +282,17 @@ published: true
   - [7. The Nature of the Second Coming](#7-the-nature-of-the-second-coming)
   - [8. The Purpose of the Second Coming](#8-the-purpose-of-the-second-coming)
   - [9. The Time of the Second Coming](#9-the-time-of-the-second-coming)
-  - [10.Delay of the Parousia](#10delay-of-the-parousia)
-  - [11.Delay of the Parousia Continued](#11delay-of-the-parousia-continued)
-  - [12.Parables of the Delay of the Parousia](#12parables-of-the-delay-of-the-parousia)
-  - [13.Final Thoughts on the Time of the Second Coming](#13final-thoughts-on-the-time-of-the-second-coming)
-  - [14.Practical Application of the Second Coming of Christ](#14practical-application-of-the-second-coming-of-christ)
-  - [15.The Millenium](#15the-millenium)
-  - [16.Postmillennialism \& Premillennialism](#16postmillennialism--premillennialism)
-  - [17.State of the Soul after Death](#17state-of-the-soul-after-death)
-  - [18.State of the Soul after Death: Jesus’ Argument with the Sadducees](#18state-of-the-soul-after-death-jesus-argument-with-the-sadducees)
-  - [19.Immortality in the New Testament](#19immortality-in-the-new-testament)
-  - [20.The Souls of the Unrighteous Dead](#20the-souls-of-the-unrighteous-dead)
+  - [10. Delay of the Parousia](#10-delay-of-the-parousia)
+  - [11. Delay of the Parousia Continued](#11-delay-of-the-parousia-continued)
+  - [12. Parables of the Delay of the Parousia](#12-parables-of-the-delay-of-the-parousia)
+  - [13. Final Thoughts on the Time of the Second Coming](#13-final-thoughts-on-the-time-of-the-second-coming)
+  - [14. Practical Application of the Second Coming of Christ](#14-practical-application-of-the-second-coming-of-christ)
+  - [15. The Millenium](#15-the-millenium)
+  - [16. Postmillennialism \& Premillennialism](#16-postmillennialism--premillennialism)
+  - [17. State of the Soul after Death](#17-state-of-the-soul-after-death)
+  - [18. State of the Soul after Death: Jesus’ Argument with the Sadducees](#18-state-of-the-soul-after-death-jesus-argument-with-the-sadducees)
+  - [19. Immortality in the New Testament](#19-immortality-in-the-new-testament)
+  - [20. The Souls of the Unrighteous Dead](#20-the-souls-of-the-unrighteous-dead)
 - [S14. Final Thoughts](#s14-final-thoughts)
   - [1. The Purpose of Defenders](#1-the-purpose-of-defenders)
   - [2. The Diligence of a Disciple](#2-the-diligence-of-a-disciple)
@@ -517,7 +517,7 @@ published: true
 7. any archaeological finding refuting Biblical claims? no refute but difficulties e.g. absence of archaeological evidence for a 400-year sojourn of Israel in Egypt, or walls of Jericho is still debated
 8. _Nelson Glueck: “no archaeological finding in history has ever controverted the accuracy of the biblical narrative decisively.”_
 
-### 10.[Canonicity](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-revelation/doctrine-of-revelation-part-10)
+### 10. [Canonicity](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-revelation/doctrine-of-revelation-part-10)
 
 1. canon: rule or standard
 2. Old Testament:
@@ -1164,7 +1164,7 @@ published: true
 7. In math we can use the concept of infinity well but cannot provide evidence that it actually exists (it's an axiom)
 8. Only reaction from critic: admit that Hilbert's Hotel is not absurd
 
-### 10.[2nd Philosophical Argument for the Beginning of the Universe](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-10)
+### 10. [2nd Philosophical Argument for the Beginning of the Universe](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-10)
 
 1. no series which is formed by adding one member after another can be actually infinite
    1. independent of the first argument
@@ -1187,7 +1187,7 @@ published: true
    1. Grim reaper \#1 strike you dead at 1am, \#2 at 12.30am, \#3 at 12.15am etc.
    2. You cannot survive past midnight, but you cannot be killed by any grim reaper at any time because you would already be dead first
 
-### 11.[Scientific Confirmation of the Beginning of the Universe](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-11)
+### 11. [Scientific Confirmation of the Beginning of the Universe](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-11)
 
 1. summary of second argument for premise 2:
    1. A collection formed by successive addition cannot be an actual infinite.
@@ -1207,7 +1207,7 @@ published: true
 4. other models: oscillating universe -&gt; many problems (entropy levels, singularity is inevitable, constancy of CBR temperature - microwave background radiation)
 5. t&lt;0? it’s not physics but metaphysics
 
-### 12.[Scientific Confirmation of the Beginning of the Universe Part 2](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-12)
+### 12. [Scientific Confirmation of the Beginning of the Universe Part 2](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-12)
 
 1. 1st confirmation: expansion of universe
 2. 20th century: failed attempts to avoid beginning of universe
@@ -1216,7 +1216,7 @@ published: true
 5. Borde-Guth-Vilenkin theorem: if no quantum effects -&gt; space-time shrinks down to a boundary in the past (quantum regime is radically unstable)
 6. no viable model for eternal universe
 
-### 13.[2nd Scientific Confirmation of the Beginning of the Universe](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-13)
+### 13. [2nd Scientific Confirmation of the Beginning of the Universe](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-13)
 
 1. 2nd evidence: Second Law of Thermodynamics: universe is heading toward “heat death” (unless energy is flowing into the system)
    1. no reason not to apply this to universe itself
@@ -1240,7 +1240,7 @@ published: true
          1. scientific vs personal explanation (why is the water boiling? because H20 vs because I want to make tea)
          2. you cannot have scientific explanation for the beginning of the universe (laws of nature do not hold)
 
-### 14.[The Teleological Argument](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-14)
+### 14. [The Teleological Argument](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-14)
 
 1. argument for design
 2. one of the oldest arguments (Plato, Aristotle)
@@ -1254,7 +1254,7 @@ published: true
    3. this approach is mistaken (e.g. proton decay: noone observed, but phsics predict -&gt; large investment)
    4. better approach to probability: possible values of constants/quantities
 
-### 15.[The Teleological Argument Part 2](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-15)
+### 15. [The Teleological Argument Part 2](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-15)
 
 1. we are not concerned with universes with different laws of nature but same laws & different numbers (e.g. one fly in large paper, a random bullet is unlikely to hit it even if there are flies all around the paper)
 2. argument:
@@ -1272,7 +1272,7 @@ published: true
    5. permits a wide range of 10^500 universes with different options
    6. it doesn't predict our universe: cannot be used as an argument for physical necessity
 
-### 16.[The Teleological Argument Part 3](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-16)
+### 16. [The Teleological Argument Part 3](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-16)
 
 1. chance: second alternative
 2. objection: probability is meaningless if only one observation
@@ -1298,7 +1298,7 @@ published: true
       3. "the invasion of Blotzmann-brains": MVH + atheism would imply that you are the only thing that exists, everything else is illusion
       4. best hope for MVH: theism
 
-### 17.[The Teleological Argument Part 4](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-17)
+### 17. [The Teleological Argument Part 4](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-17)
 
 1. neither chance nor physical necessity provides a plausible explanation for fine-tuning
 2. however, sometimes it can be justified to believe in an improbable explanation in case there were no better explanation available
@@ -1328,7 +1328,7 @@ published: true
       1. but: this doesn’t follow from the previous six statements even if all of them are true!
       2. conclusion: we should not infer God’s existence on the basis of the appearance of design in the universe - this is compatible with God’s existence (other arguments)
 
-### 18.[The Moral Argument](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-18)
+### 18. [The Moral Argument](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-18)
 
 1. Can we be good without God? (NOT: can we be good without _believing_ in God!)
 2. moral argument for God’s existence:
@@ -1369,7 +1369,7 @@ published: true
       1. common answer, but then I want to know why should we avoid inflicting pain on other persons in our species?
       2. Animals inflict pain upon one another all the time. So why are we different? Why is it wrong for Homo sapiens – this relatively advanced primate – to inflict pain?
 
-### 19.[Questions About the Moral Argument](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-19)
+### 19. [Questions About the Moral Argument](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-19)
 
 1. Sam Harris: affirms the objectivity of moral values and duties but grounds them in human beings that whatever is conducive to human flourishing is good, and whatever detracts from human flourishing is bad
 2. The Euthyphro Dilemma: is something good just because God wills it, or does God will something because it is good?
@@ -1380,7 +1380,7 @@ published: true
 4. WLC: high-fidelity recording approximates live orchestra
 5. Hatred not only wrong, but necessarily wrong
 
-### 20.[The Moral Argument Part 3](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-20)
+### 20. [The Moral Argument Part 3](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-20)
 
 1. Objections to premise 1
    1. Euthypro dilemma:
@@ -1402,7 +1402,7 @@ published: true
 4. voluntarism: no moral values and duties are necessarily true -&gt; wrong
 5. how we know moral values -&gt; different question
 
-### 21.[The Moral Argument Part 4](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-21)
+### 21. [The Moral Argument Part 4](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-21)
 
 1. very few ppl deny premise 2
 2. professors are more objectivist than the students - but students can be quickly convinced:
@@ -1426,7 +1426,7 @@ published: true
       3. reason: evolution aims at survival, not at truth
 6. experience is always subjective but it doesn’t mean the object of the experience is subjective too!
 
-### 22.[The Moral Argument Part 5](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-22)
+### 22. [The Moral Argument Part 5](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-22)
 
 1. _objection from evolutionary psychology:_ our moral beliefs are the product of evolution, and evolution (or natural selection) is aimed at survival value, not at truth, we can have no confidence in the truth of our moral beliefs and therefore could not be justified in believing premise (2).
    1. there is no plausible coherent socio-biological account of our moral beliefs
@@ -1456,7 +1456,7 @@ published: true
       2. probability of premises != probability of conclusion
       3. cumulative evidence can increase the probability
 
-### 23.[The Ontological Argument](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-23)
+### 23. [The Ontological Argument](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-23)
 
 1. Anselm: Benedictine monk, later Archbishop of Canterbury
    1. “God”: aliquid quo nihil maius cogitari potest (greatest conceivable being)
@@ -1473,7 +1473,7 @@ published: true
    6. we can imagine != what we can conceive
 5. Plantinga’s argument: if it is possible that God exists then God does exist
 
-### 24.[The Ontological Argument Part 2](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-24)
+### 24. [The Ontological Argument Part 2](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-24)
 
 1. possible world: list of statements, if all true -&gt; actual world
 2. ontological argument: if God’s existence is possible, then it is necessary
@@ -1519,7 +1519,7 @@ published: true
    6. how do we know a priori if maximal or quasi-maximal exists? intuition of maximal trumps quasi-maximal -&gt; concept of QM derived from maximal being
    7. Plantinga: premise 1 can be affirmed not only by _a priori_ intuitions but _a posteriori_ reasons
 
-### 25.[Q&A on the Ontological Argument](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-25)
+### 25. [Q&A on the Ontological Argument](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-25)
 
 1. objection: properties of maximal excellence are subjective
    1. not true (morally perfect being obviously greater than defective)
@@ -1549,7 +1549,7 @@ published: true
    2. it doesn’t assume that existence is a property
    3. is assumes necessity is a property
 
-### 26.[The Ontological Argument](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-26)
+### 26. [The Ontological Argument](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-26)
 
 1. a priori (prior to experience)
    1. greatest maximal being seems to be a coherent idea -&gt; good reason to think it is true
@@ -1584,7 +1584,7 @@ published: true
    1. Kurt Gödel (mathematician)
 7. difference between knowing vs showing Christianity to be true
 
-### 27.[Arguments Against God's Existence](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-27)
+### 27. [Arguments Against God's Existence](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-27)
 
 1. force your audience to engage with the argument
 2. don’t allow yourself to get distracted, stay focused on the argument
@@ -1611,7 +1611,7 @@ published: true
 9. theoretical physics: many entities postulated (e.g. subatomic particles) because of explanatory value, even though we don’t have access to them empirically
    1. God is like such an entity -&gt; God’s existence explains plausibly empirical data
 
-### 28.[The Presumption of Atheism](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-28)
+### 28. [The Presumption of Atheism](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-28)
 
 1. epistemological objections to belief in God: God cannot be known to exist
    1. e.g. verificationism
@@ -1645,7 +1645,7 @@ published: true
    2. e.g. Earth’s core: noone has seen it
    3. e.g. black hole: no direct evidence, but great explanatory value
 
-### 29.[The Hiddenness of God](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-29)
+### 29. [The Hiddenness of God](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-29)
 
 1. **hiddenness of God:** if God existed, he would have given more evidence
    1. real motivation: no good arguments
@@ -1659,7 +1659,7 @@ published: true
 3. don’t lie to your children about Santa Claus - when they find out, they might question other things too…
 4. apologetics: sharing persuasive arguments, leaving the results to God
 
-### 30.[The Problem of Evil and Suffering (1)](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-30)
+### 30. [The Problem of Evil and Suffering (1)](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-30)
 
 1. aka “the problem of pain/innocent suffering.”
 2. not only moral but natural evil too (disasters, diseases etc)
@@ -1693,7 +1693,7 @@ published: true
       2. atheist response: “yes, a God who is all powerful can do logical impossibilities” -&gt; problem of evil is solved!
       3. even if they refute free will (Calvinism), as long as free will is _possible_, 3 is not _necessarily_ true
 
-### 31.[The Problem of Evil and Suffering (2)](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-31)
+### 31. [The Problem of Evil and Suffering (2)](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-31)
 
 1. **logical version of the problem of evil**
    1. 1\. An all-powerful, all-loving God exists.
@@ -1729,7 +1729,7 @@ published: true
     2. Christians are not commited to it!
 11. evil does not exist necessarily
 
-### 32.[The Problem of Evil and Suffering (3)](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-32)
+### 32. [The Problem of Evil and Suffering (3)](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-32)
 
 1. **probabilistic (evidential) problem of evil**
    1. more powerful argument
@@ -1781,7 +1781,7 @@ published: true
       4. Therefore, God exists.
    5. apart from God suffering isn’t really bad -&gt; evil actually proves God’s existence
 
-### 33.[The Problem of Evil and Suffering (4)](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-33)
+### 33. [The Problem of Evil and Suffering (4)](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-33)
 
 1. two responses to problem of evil (probabilistic version)
    1. cannot say with confident that God has no good reason for permitting evil/suffering
@@ -1802,7 +1802,7 @@ published: true
       1. show that these four doctrines are probably false
       2. show that God's existence is still improbable even if they are true
 
-### 34.[The Emotional Version of the Problem of Evil](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-34)
+### 34. [The Emotional Version of the Problem of Evil](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology/excursus-on-natural-theology-part-34)
 
 1. for most people the problem of suffering and evil is not really an intellectual problem. It is really an emotional problem.
 2. why bother with intellectual version?
@@ -1924,7 +1924,7 @@ published: true
 4. Council of Nicaea: synthesis between John's Gospel and Middle Platonism
 5. Inadequate doctrine but groping
 
-### 6. [Historical Survey (2) | Modalism](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-god-trinity/doctrine-of-god-trinity-part-6)
+### 6. [Historical Survey (2) - Modalism](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-god-trinity/doctrine-of-god-trinity-part-6)
 
 1. **Modalism**
    1. aka Monarchianism, Sabellianism
@@ -1938,7 +1938,7 @@ published: true
       1. affirmed the personal distinction of the Father and the Son but denied the deity of the Son
       2. Modalists at least did affirm the deity of Christ
 
-### 7. [Historical Survey (3) | Arianism](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-god-trinity/doctrine-of-god-trinity-part-7)
+### 7. [Historical Survey (3) - Arianism](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-god-trinity/doctrine-of-god-trinity-part-7)
 
 1. Son is not of the same substance as the Father but had been created before the beginning of the world
 2. Arius: presbyter of the church of Alexandria, Egypt
@@ -1960,7 +1960,7 @@ published: true
       3. confusion cleared up in Council of Alexandria in 362
       4. there is one substance (homousios) but three different divine hypostases (individuals)
 
-### 8. [Historical Survey (4) | Coherence of the Doctrine](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-god-trinity/doctrine-of-god-trinity-part-8)
+### 8. [Historical Survey (4) - Coherence of the Doctrine](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-god-trinity/doctrine-of-god-trinity-part-8)
 
 1. **Nicene Creed:**
    1. _“We believe in one God, the Father Almighty, maker of all things, visible and invisible;_
@@ -2004,7 +2004,7 @@ published: true
    2. e.g. Jn 1,14
    3. not about pre-creation
 
-### 10.[The Relationship Between Father, Son, and Holy Spirit](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-god-trinity/doctrine-of-god-trinity-part-10)
+### 10. [The Relationship Between Father, Son, and Holy Spirit](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-god-trinity/doctrine-of-god-trinity-part-10)
 
 1. **Ontological vs Economic Trinity**
    1. Logos doctrine introduced subordinationism (“The Father is greater then I”)
@@ -2016,7 +2016,7 @@ published: true
    7. subordination only affects economic Trinity, not ontological
    8. error of Logos Christology: conflating the economic and ontological Trinity -&gt; introducing subordinationism into God’s nature, not just functionally
 
-### 11.[A Plausibility Argument for the Trinity](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-god-trinity/doctrine-of-god-trinity-part-11)
+### 11. [A Plausibility Argument for the Trinity](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-god-trinity/doctrine-of-god-trinity-part-11)
 
 1. Trinity: revealed, not natural theology (no way to prove by reason alone)
 2. **plausibility argument:**
@@ -2263,7 +2263,7 @@ published: true
             2. other driven into desert bear the iniquities of the people -&gt; symbolizes the effectiveness of the sacrifice in removing their sins from them
          4. parallel to cleansing leprosy (two birds)
 
-### 10.[The Work of Christ (3) - Christ as Sacrifice](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-10)
+### 10. [The Work of Christ (3) - Christ as Sacrifice](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-10)
 
 1. **NT: Christ’s death both expiatory and propitiatory**
    1. Expiation
@@ -2287,7 +2287,7 @@ published: true
       4. suffering is punishment
    4. word _kipper_ doesn’t appear but concept is clear
 
-### 11.[The Work of Christ (4) - Divine Justice](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-11)
+### 11. [The Work of Christ (4) - Divine Justice](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-11)
 
 1. **Divine Righteousness and the New Perspective on Paul**
    1. principal NT motifs for atonement
@@ -2310,7 +2310,7 @@ published: true
       6. righteousness entails faithfulness but is more than that
       7. Gentiles not part of covenant -&gt; cannot be unrighteous
 
-### 12.[The Work of Christ (5) - Divine Justice (2)](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-12)
+### 12. [The Work of Christ (5) - Divine Justice (2)](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-12)
 
 1. **The Motif of Representation**
    1. God’s righteousness is given to all who believe in Jesus (Paul)
@@ -2325,7 +2325,7 @@ published: true
             1. become beneficiaries of his atoning death (Romans 6:3-11)
    5. Paul: Christ - representative of & died for all mankind &lt;-&gt; no universalist
 
-### 13.[The Work of Christ (6) - Redemption](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-13)
+### 13. [The Work of Christ (6) - Redemption](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-13)
 
 1. **The Motif of Redemption**
    1. _redemption:_
@@ -2337,7 +2337,7 @@ published: true
    2. no church council on atonement
    3. Christ’s death ~ sacrificial offering
 
-### 14.[The Work of Christ (7) - The Ransom Theory](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-14)
+### 14. [The Work of Christ (7) - The Ransom Theory](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-14)
 
 1. **The Ransom Theory**
    1. church fathers: Christ’s death ~ sacrificial offering to God
@@ -2353,7 +2353,7 @@ published: true
       7. shift emphasis away from Christ’s death to his incarnation
       8. weaknesses in Eastern Orthodoxy: centrality of the cross lost
 
-### 15.[The Work of Christ (8) - Satisfaction Theory](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-15)
+### 15. [The Work of Christ (8) - Satisfaction Theory](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-15)
 
 1. **The Satisfaction Theory**
    1. developed by St. Anselm (ontological argument)
@@ -2377,7 +2377,7 @@ published: true
    11. Christ did not die in our place. He was not punished for our sins nor did he bear the penalty for our sins (not punishment but compensation)
    12. we become the beneficiaries of Christ’s reward through faith in the gospel
 
-### 16.[The Work of Christ (9) - Moral Influence Theory](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-16)
+### 16. [The Work of Christ (9) - Moral Influence Theory](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-16)
 
 1. **The Moral Influence Theory**
    1. Peter Abelard (famous love affair with Eloise)
@@ -2391,7 +2391,7 @@ published: true
    2. our sins imputed to Christ (legally)
    3. Christ’s righteousness imputed to us through faith in him
 
-### 17.[The Work of Christ (10) - Penal Substitution Theory](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-17)
+### 17. [The Work of Christ (10) - Penal Substitution Theory](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-17)
 
 1. **The Penal Substitution Theory**
 
@@ -2600,7 +2600,7 @@ published: true
       2. But Christ has been raised.
       3. Therefore the dead are raised.
 
-### 27.[The Work of Christ (20) - The Resurrection Continued](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-27)
+### 27. [The Work of Christ (20) - The Resurrection Continued](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-27)
 
 1. **Paul's Teaching on the Nature of the Resurrection Body**
    1. 1 Corinthians 15:35-57: three analogies
@@ -2617,7 +2617,7 @@ published: true
          3. not platonic sense (no body, only soul)
          4. it would be better to translate pneumatikos as supernatural (same as 1 Corinthians 10:1-4)
 
-### 28.[The Work of Christ (21) - The Resurrection Continued](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-28)
+### 28. [The Work of Christ (21) - The Resurrection Continued](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-28)
 
 1. **The First Adam and the Second Adam**
    1. 1 Corinthians 15:45-49
@@ -2626,7 +2626,7 @@ published: true
    4. Luke 24:39: flesh and bones -&gt; emphasize the materiality of the resurrection body (e.g Ezekiel 37:1-10)
    5. resurrection body: not new but a transformation of the earthly body
 
-### 29.[The Work of Christ (22) - The Resurrection Continued](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-29)
+### 29. [The Work of Christ (22) - The Resurrection Continued](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-29)
 
 1. **The Burial of Jesus**
    1. Mark 15:40-47
@@ -2639,14 +2639,14 @@ published: true
    8. John: shines the spotlight on Mary Magdalene
    9. guard at the tomb: probably Roman guard
 
-### 30.[The Work of Christ (23) - The Resurrection Continued](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-30)
+### 30. [The Work of Christ (23) - The Resurrection Continued](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-30)
 
 1. **Discovery of the Empty Tomb**
    1. Mark 16:1-8
    2. women carry out typical ministrations (not complete an unfinished job)
    3. verification of the women's report – by two disciples at least
 
-### 31.[The Work of Christ (24) - The Post-Mortem Appearances](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-31)
+### 31. [The Work of Christ (24) - The Post-Mortem Appearances](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-31)
 
 1. **Postmortem Appearances of Jesus**
    1. Mark 16:7 appearance in Galilee
@@ -2656,14 +2656,14 @@ published: true
    5. Thomas and the Twelve in John 20:26-29
    6. John 21:1-14: appearance by the Sea of Tiberias
 
-### 32.[The Work of Christ (25) - The Post-Mortem Appearances](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-32)
+### 32. [The Work of Christ (25) - The Post-Mortem Appearances](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-32)
 
 1. **More on the Gospels' Postmortem Appearance Narratives**
    1. Sea of Tiberius: not going back to old time but passing time waiting for Jesus
    2. Jesus with Peter: not rehabilitation but recommission
    3. sequence of appearances
 
-### 33.[The Work of Christ (26) - Resurrection Theories](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-33)
+### 33. [The Work of Christ (26) - Resurrection Theories](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-33)
 
 1. **Conspiracy and Apparent Death Theories**
    1. Enlightenment (17-18th century) throw off monarchy & church
@@ -2672,7 +2672,7 @@ published: true
    4. Hermann Samuel Reimarus: conspiracy theory
    5. Life of Jesus movement: apparent death theory
 
-### 34.[The Work of Christ (27) - Resurrection Theories](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-34)
+### 34. [The Work of Christ (27) - Resurrection Theories](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-34)
 
 1. **Mythology, Subjective and Objective Vision, Interpretation Theories**
    1. David Friedrich Strauss: The Life of Jesus Critically Examined: mythological explanation
@@ -2680,7 +2680,7 @@ published: true
    3. subjective vs objective vision
    4. interpretation theory
 
-### 35.[The Work of Christ (28) - Resurrection Theories](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-35)
+### 35. [The Work of Christ (28) - Resurrection Theories](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-35)
 
 1. **Historical Investigation of the Resurrection**
    1. two ways to come to a knowledge of the truth of Jesus' resurrection from the dead: existential & historical way
@@ -2696,7 +2696,7 @@ published: true
       3. even if professional historian must act under the constraint of methodological naturalism, why should we be under any such constraint?
    5. N. T. Wright: The Resurrection of the Son of God
 
-### 36.[The Work of Christ (29) - Facts of the Resurrection](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-36)
+### 36. [The Work of Christ (29) - Facts of the Resurrection](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-36)
 
 1. **Historicity of the Empty Tomb**
    1. facts:
@@ -2715,7 +2715,7 @@ published: true
       2. his postmortem appearances
       3. origin of the Christian faith itself
 
-### 37.[The Work of Christ (30) - Facts of the Resurrection](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-37)
+### 37. [The Work of Christ (30) - Facts of the Resurrection](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-37)
 
 1. **Historicity of the Empty Tomb (Part 2)**
    1. historicity of the empty tomb
@@ -2728,7 +2728,7 @@ published: true
       4. the Markan story is simple and lacks any signs of legendary development or embellishment
          1. compared with Gospel of Peter
 
-### 38.[The Work of Christ (31) - Facts of the Resurrection](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-38)
+### 38. [The Work of Christ (31) - Facts of the Resurrection](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-38)
 
 1. **Historicity of the Empty Tomb (Part 3)**
    1. evidence in support of the discovery of the empty tomb
@@ -2738,7 +2738,7 @@ published: true
          1. Matthew 28,11-15 earliest Christian attempt to refute the Jewish polemic against the disciples’ proclamation of Jesus’ resurrection
    2. six lines of evidence
 
-### 39.[The Work of Christ (32) - Facts of the Resurrection](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-39)
+### 39. [The Work of Christ (32) - Facts of the Resurrection](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-39)
 
 1. **The Historicity of the Post-Mortem Appearances**
    1. 1 Corinthians 15:3-8
@@ -2750,7 +2750,7 @@ published: true
          4. appearance to James
          5. appearance to Saul of Tarsus
 
-### 40.[The Work of Christ (33) - Facts of the Resurrection](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-40)
+### 40. [The Work of Christ (33) - Facts of the Resurrection](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-40)
 
 1. **The Postmortem Appearances**
    1. 1 Corinthians 15:3-8
@@ -2759,7 +2759,7 @@ published: true
          1. Paul conceives of the resurrection body as physical
          2. Paul and all of the New Testament makes a conceptual distinction between a resurrection appearance of Jesus and a vision of Jesus
 
-### 41.[The Work of Christ (34) - Facts of the Resurrection](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-41)
+### 41. [The Work of Christ (34) - Facts of the Resurrection](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-41)
 
 1. **Postmortem Appearances and the Origin of the Christian Faith**
    1. Jesus' postmortem appearances
@@ -2769,7 +2769,7 @@ published: true
    2. origin of the Christian faith
       1. earliest disciples of Jesus at least believed that Jesus had been raised from the dead
 
-### 42.[The Work of Christ (35) - Resurrection Hypotheses](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-42)
+### 42. [The Work of Christ (35) - Resurrection Hypotheses](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-42)
 
 1. **Assessing Competing Hypotheses To Explain The Three Facts**
    1. case for the historical resurrection of Jesus will involve two stages
@@ -2783,7 +2783,7 @@ published: true
       5. _accord with accepted beliefs:_ to what degree is the hypothesis in accord with widely accepted beliefs?
       6. does the hypothesis surpass its rival hypotheses in meeting the above conditions?
 
-### 43.[The Work of Christ (36) - Resurrection Hypotheses](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-43)
+### 43. [The Work of Christ (36) - Resurrection Hypotheses](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-43)
 
 1. **Mythological Hypothesis and the Origin of the Disciple's Faith**
    1. currently defended by some scholars
@@ -2794,12 +2794,12 @@ published: true
       2. influence of pagan religions
       3. influence of Jewish religious beliefs
 
-### 44.[The Work of Christ (37) - Resurrection Hypotheses](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-44)
+### 44. [The Work of Christ (37) - Resurrection Hypotheses](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-44)
 
 1. origin of the Christian faith remains inexplicable on this myth and legend hypothesis
 2. **Hallucination Hypothesis**
 
-### 45.[The Work of Christ (38) - The Resurrection Hypothesis](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-45)
+### 45. [The Work of Christ (38) - The Resurrection Hypothesis](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-45)
 
 1. **The Resurrection Hypothesis**
 
@@ -2968,7 +2968,7 @@ published: true
 5. Thomas Aquinas: God acts **on** the secondary causes (determinism)
 6. Luis Molina: God acts **with** the secondary causes (free will)
 
-### 10.[Different Views of Divine Providence](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-10)
+### 10. [Different Views of Divine Providence](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-10)
 
 1. Divine Providence: God's governance or supervision of the world
 2. Divine Sovereignty and Human Responsibility (Donald Carson)
@@ -2993,7 +2993,7 @@ published: true
    2. _Arminianism:_ libertarian freedom (people are not causally determined by God), divine sovereignty -&gt; foreknowledge of the future
    3. _Molinism:_ God's middle knowledge (God's knowledge of what would happen under different circumstances) -&gt; not determinism (e.g. FBI trying to catch child pornographer)
 
-### 11.[A Critical Assessment of Three Views of Divine Providence](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-11)
+### 11. [A Critical Assessment of Three Views of Divine Providence](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-11)
 
 1. 5 criticism against Calvinism:
    1. universal divine causal determinism cannot really give us a coherent model of the scriptural teaching on divine sovereignty and human freedom
@@ -3002,7 +3002,7 @@ published: true
    4. universal divine causal determinism nullifies human agency
    5. universal divine causal determinism makes reality into a farce
 
-### 12.[Arminian And Molinist Accounts of Divine Sovereignty and Human Freedom](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-12)
+### 12. [Arminian And Molinist Accounts of Divine Sovereignty and Human Freedom](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-12)
 
 1. Arminianism:
    1. assertion of divine sovereignty: Acts 4:27-28
@@ -3018,7 +3018,7 @@ published: true
             3. imperceptible events included in P's past light cone can be altered without significant effects upon P's situation at T
             4. assumes that God's concern is with P's choice alone
 
-### 13.[The Collapse of the Belief in Miracles](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-13)
+### 13. [The Collapse of the Belief in Miracles](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-13)
 
 1. providentia ordinaria vs providentia extraordinaria
 2. special providence vs miracle
@@ -3038,7 +3038,7 @@ published: true
    2. problem of miracles simply disappeared
    3. after mid 20th century: eclipse of mythology in NT studies (not good way to interpret the events)
 
-### 14.[Arguments Against Miracles](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-14)
+### 14. [Arguments Against Miracles](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-14)
 
 1. Enlightenment: Age of Reason
 2. principal arguments used by the Deists against miracles
@@ -3057,7 +3057,7 @@ published: true
       3. miracles occur only among barbarous peoples
       4. miracles occur in all religions and thereby cancel each other out
 
-### 15.[The Definition of “Miracle”](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-15)
+### 15. [The Definition of “Miracle”](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-15)
 
 1. Newtonian world-machine
    1. but: quantum physics is not deterministic
@@ -3076,7 +3076,7 @@ published: true
    4. In order to show that miracles are impossible a person would therefore have to show that atheism is true
 3. do we have any good evidence to think that such miraculous events have actually occurred?
 
-### 16.[Rebutting Spinoza’s Objections to Miracles](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-16)
+### 16. [Rebutting Spinoza’s Objections to Miracles](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-16)
 
 1. immutability of nature
    1. “God” and “Nature” synonymous terms
@@ -3102,7 +3102,7 @@ published: true
 3. how to show in any particular case that the miracle was divine rather than demonic?
    1. it is the **doctrinal context** in which the miracle occurs that makes it evident if the miracle is truly from God
 
-### 17.[Hume’s Abject Failure](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-17)
+### 17. [Hume’s Abject Failure](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-17)
 
 1. David Hume’s “in principle” argument against miracles
    1. “no testimony . . . is sufficient to establish a miracle, unless this testimony is of such a kind that . . . its falsehood would be more miraculous, than the fact which it endeavors to establish.”
@@ -3124,7 +3124,7 @@ published: true
    2. but: this is false
    3. In order to establish the occurrence of a highly improbable event, you don't need to have lots of evidence
 
-### 18.[Determining the Intrinsic Probability of the Resurrection](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-18)
+### 18. [Determining the Intrinsic Probability of the Resurrection](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-18)
 
 1. Hume considered only intrinsic probability and neglected the explanatory power
 2. evidence for a miracle is by definition utterly improbable
@@ -3143,7 +3143,7 @@ published: true
    5. but: there is no reason to think that the probability of R on God and the background information is terribly low
    6. we can’t take P(R|B) low because of the infrequency of resurrection -&gt; it may be precisely _because_ the resurrection is unique that it is highly probable that God would choose it as a spectacular way of vindicating his Son’s claims for which he was crucified.
 
-### 19.[Angels and Demons](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-19)
+### 19. [Angels and Demons](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-19)
 
 1. messengers of God
 2. incorporeal beings
@@ -3163,7 +3163,7 @@ published: true
    7. very wise (Samuel 14:20b)
    8. capable of assuming human form (Judges 13:8-20)
 
-### 20.[The Work of Angels](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-20)
+### 20. [The Work of Angels](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-20)
 
 1. **work of angels**
    1. guide the destiny of nations (Daniel 10:13-20)
@@ -3175,7 +3175,7 @@ published: true
       1. warrior (the one who does battle)
    2. Gabriel: messenger (communicating wisdom and understanding to God's people).
 
-### 21.[The Names of Satan](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-21)
+### 21. [The Names of Satan](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-21)
 
 1. “adversary”
 2. diabolos (“the devil” or “slanderer”)
@@ -3185,7 +3185,7 @@ published: true
 5. ruler/god of this world (John 14:30-31)
 6. accuser of the brethren
 
-### 22.[The Origin of Satan](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-22)
+### 22. [The Origin of Satan](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-creation/doctrine-of-creation-part-22)
 
 1. Bible: no dualism
 2. How could God create something which seems to be so intrinsically evil and opposed to God?
@@ -4643,7 +4643,7 @@ published: true
 2. 2 Thessalonians 2:1-10: same impression
 3. other passages: Mark 13:30
 
-### 10.[Delay of the Parousia](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-last-things/doctrine-of-the-last-things-part-10)
+### 10. [Delay of the Parousia](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-last-things/doctrine-of-the-last-things-part-10)
 
 1. preterist: predictions were all fulfilled in AD 70
 2. revised prophecy view: Jesus’ prophecy was simply provisional, subject to change
@@ -4655,13 +4655,13 @@ published: true
    2. Matthew is using Mark’s Gospel but takes words from Olivet Discourse & inserts into Jesus’ charge to twelve disciples
    3. false impression: Son of Man will return before they finish their mission
 
-### 11.[Delay of the Parousia Continued](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-last-things/doctrine-of-the-last-things-part-11)
+### 11. [Delay of the Parousia Continued](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-last-things/doctrine-of-the-last-things-part-11)
 
 1. suggestion: we can’t know for sure that the sayings like Mark 13:30 meant that the Son of Man would return before everyone listening to Jesus would pass away
 2. broader context of Mark 13: “all these things” refers to the destruction of Jerusalem
 3. original context what you have here are prophecies about things that will take place before that generation dies off, but not a prophecy predicting the return of the Son of Man before that generation passes away
 
-### 12.[Parables of the Delay of the Parousia](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-last-things/doctrine-of-the-last-things-part-12)
+### 12. [Parables of the Delay of the Parousia](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-last-things/doctrine-of-the-last-things-part-12)
 
 1. parables by Jesus precisely about the delay of the parousia
    1. Matthew 24:45-51
@@ -4671,7 +4671,7 @@ published: true
    5. Matthew 25:31-46
 2. Jesus prepared the disciples over and over again for a long time – a delay of his return
 
-### 13.[Final Thoughts on the Time of the Second Coming](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-last-things/doctrine-of-the-last-things-part-13)
+### 13. [Final Thoughts on the Time of the Second Coming](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-last-things/doctrine-of-the-last-things-part-13)
 
 1. Second Coming will be unexpected and could be delayed -&gt; we always need to be ready
    1. don’t use unfulfilled signs as an excuse for not living as disciples of Christ
@@ -4682,13 +4682,13 @@ published: true
    1. but: even physically, an apocalyptic scenario is possible
    2. eschatology is part of cosmology too!
 
-### 14.[Practical Application of the Second Coming of Christ](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-last-things/doctrine-of-the-last-things-part-14)
+### 14. [Practical Application of the Second Coming of Christ](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-last-things/doctrine-of-the-last-things-part-14)
 
 1. call to moral living; a call to holiness (Romans 13:11-14)
 2. be engaged in fulfilling the Great Commission
 3. Second Coming is basis of our hope (Titus 2:13)
 
-### 15.[The Millenium](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-last-things/doctrine-of-the-last-things-part-15)
+### 15. [The Millenium](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-last-things/doctrine-of-the-last-things-part-15)
 
 1. Revelation 20:1-10
 2. **amillennialism**
@@ -4718,7 +4718,7 @@ published: true
    5. millennium serves no purpose
       1. BUT: millennium shows God’s plan for social structures
 
-### 16.[Postmillennialism & Premillennialism](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-last-things/doctrine-of-the-last-things-part-16)
+### 16. [Postmillennialism & Premillennialism](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-last-things/doctrine-of-the-last-things-part-16)
 
 1. **postmillennialism**
    1. pro:
@@ -4737,7 +4737,7 @@ published: true
       2. believers are supposed to reign with Christ here on Earth
          1. BUT: why can’t this be in new heavens and the new Earth?
 
-### 17.[State of the Soul after Death](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-last-things/doctrine-of-the-last-things-part-17)
+### 17. [State of the Soul after Death](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-last-things/doctrine-of-the-last-things-part-17)
 
 1. progressive revelation
    1. God has not given to humankind all of his truth that he wants us to know at once, but has revealed it gradually over time in increasing detail and fullness.
@@ -4749,7 +4749,7 @@ published: true
    2. intertestamental period: belief in the resurrection widespread
       1. held by Pharisees but denied by Sadducees
 
-### 18.[State of the Soul after Death: Jesus’ Argument with the Sadducees](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-last-things/doctrine-of-the-last-things-part-18)
+### 18. [State of the Soul after Death: Jesus’ Argument with the Sadducees](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-last-things/doctrine-of-the-last-things-part-18)
 
 1. Paul exploits division between Pharisees and Sadducees (Acts 23:6-10)
 2. Jesus sided with the Pharisees (Matthew 22:23-33)
@@ -4757,7 +4757,7 @@ published: true
 3. Christian view was essentially the same as the Jewish
    1. one difference: Jesus’ resurrection has already occurred
 
-### 19.[Immortality in the New Testament](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-last-things/doctrine-of-the-last-things-part-19)
+### 19. [Immortality in the New Testament](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-last-things/doctrine-of-the-last-things-part-19)
 
 1. Philippians 1:23, 2 Corinthians 5:1-10
 2. disembodied soul ~ nakedness
@@ -4769,7 +4769,7 @@ published: true
    1. Given that the resurrection hasn’t occurred yet, it is impossible that they could actually have their resurrection bodies
    2. may be just illusions of a dying brain
 
-### 20.[The Souls of the Unrighteous Dead](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-last-things/doctrine-of-the-last-things-part-20)
+### 20. [The Souls of the Unrighteous Dead](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-last-things/doctrine-of-the-last-things-part-20)
 
 1. Hades: place of conscious torment and separation from Christ until the resurrection at the end of the world
 2. at the resurrection their souls will be reunited with a body and be judged by Christ
