@@ -17,7 +17,5 @@ layout: post
     <td>{{ row["author"]}}</td>
     <td><a href="{{ row["url"]}}" target="_blank">{{ row["title"]}}</a> ({{ row["year"]}})</td>
   </tr>
-
-{% endfor %}
-
+  {% endfor %}
 </table>
