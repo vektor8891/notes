@@ -37,38 +37,13 @@ While these are all symptoms of sexual abuse, no single symptom will confirm a c
 3. **Abuse by a Peer: The Small Group Bible Study:** 40% children abused by older/more powerful children; as a parent, you should require your church have a child safety program;
 4. **Abuse by Family Member or Trusted Friend: The Cousin:** sibling incest 5x frequent as parent-child abuse; novella for teens on sexual abuse by relative: [The Mona Lisa Mirror](https://www.amazon.com/Mona-Mirror-Mystery-Cruciform-Fiction-ebook/dp/B07FW12L43/) → helpful discussion starter; sexual abuse more likely in families with rigid gender roles, power imbalances, differential treatment of children, lack of parental supervision; wrestling & tickling can become unsafe; set clear family guidelines: 1) children not expected to kiss/hug relatives they don’t know 2) importance of closed doors (both when they are changing clothes or others, both them and other should knock) 3) guests need to play in living room / shared spaces (not in bedroom) - same when they are guests 4) boundaries might evolve with time; 
 
-| Age | Common Behaviors | Uncommon Behaviors |
-| --- | --- | --- |
-| 0-5 years | - Questions about gender and private parts
-- Questions about hygiene and toileting
-- Questions about pregnancy and birth
-- Exploring genitals and experiencing pleasure | - Knowledge of specific sexual acts or use of explicit language
-- Engaging in adult-like
-sexual contact with other children
-- Showing and looking at private parts |
-| 6-8 years | - Questions about physical development, relationships, sexual behavior
-- Questions about menstruation and pregnancy
-- Questions about personal values and sexuality
-- Experimenting with same-age and
-same-gender children during games or role-playing
-- Self-stimulation in private | - Adult-like sexual behaviors
-- Knowledge of specific sexual acts
-- Behaving sexually in a public place or through technology
- |
-| 9-12 years | - Increased sexual awareness, feelings, and interest at the onset of puberty
-- Questions about sexual behavior and relationships
-- Discussing sexual acts and personal values
-- Increased experimentation with sexual behaviors
-- Self-stimulation in private | - Regularly occurring adult-like sexual behavior
-- Behaving sexually in a public place or through technology |
-| 13-16 years | - Questions about social relationships and sexual customs
-- Questions about personal consequences and sexual behaviors
-- Self-stimulation in private
-- Sexual experimentation with individuals of the same age and gender is common.
-- Voyeuristic behaviors are common in this age group.
-- First sexual intercourse will occur for approximately one third of teens. | - Behaving sexually in a public place or through technology
-- Masturbation in a public place
-- Sexual interest directed toward much younger children |
+| Age         | Common Behaviors                                                                                                                                                                                                                                                                                                                                                                                     | Uncommon Behaviors                                                                                                                                                             |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 0-5 years   | - Questions about gender and private parts <br />- Questions about hygiene and toileting <br />- Questions about pregnancy and birth <br />- Exploring genitals and experiencing pleasure                                                                                                                                                                                                            | - Knowledge of specific sexual acts or use of explicit language <br />- Engaging in adult-like sexual contact with other children <br />- Showing and looking at private parts |
+| 6-8 years   | - Questions about physical development, relationships, sexual behavior <br />- Questions about menstruation and pregnancy <br />- Questions about personal values and sexuality <br />- Experimenting with same-age and same-gender children during games or role-playing <br />- Self-stimulation in private                                                                                        | - Adult-like sexual behaviors <br />- Knowledge of specific sexual acts <br />- Behaving sexually in a public place or through technology                                      |
+| 9-12 years  | - Increased sexual awareness, feelings, and interest at the onset of puberty <br />- Questions about sexual behavior and relationships <br />- Discussing sexual acts and personal values <br />- Increased experimentation with sexual behaviors <br />- Self-stimulation in private                                                                                                                | - Regularly occurring adult-like sexual behavior <br />- Behaving sexually in a public place or through technology                                                             |
+| 13-16 years | - Questions about social relationships and sexual customs <br />- Questions about personal consequences and sexual behaviors <br />- Self-stimulation in private <br />- Sexual experimentation with individuals of the same age and gender is common. <br />- Voyeuristic behaviors are common in this age group. <br />- First sexual intercourse will occur for approximately one third of teens. | - Behaving sexually in a public place or through technology <br />- Masturbation in a public place <br />- Sexual interest directed toward much younger children               |
+
 1. **Abuse by Strangers: At the Restaurant:** be on the alert for people photographing your children; be cautious when posting pictures with your children (esp. in bathtubs & partially clothed); use watermark on your photos; [strip GPS data from photo](https://us.norton.com/blog/how-to/how-to-remove-gps-and-other-metadata-locations-from-photos)
 
 # Section II: Children Six to Eleven:
