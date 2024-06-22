@@ -16,6 +16,12 @@ jobs:
         uses: actions/setup-ruby@v1
         with:
           ruby-version: ${{ env.ruby-version }}
+      - name: Install ruby dependencies
+        run: |
+          sed -i "/\b\(redirect\)\b/d" Gemfile
+          gem install bundler
+          bundle config path vendor/bundle
+          bundle install --jobs 4 --retry 3
       - name: Install dependencies and push records
         run: |
           gem install bundler
