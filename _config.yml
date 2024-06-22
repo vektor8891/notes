@@ -90,3 +90,4 @@ theme: minima
 # Add algolia
 algolia:
   application_id: 'QOIYQNYZ6Z'
+  index_name: vektor8891
