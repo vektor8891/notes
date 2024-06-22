@@ -1,0 +1,28 @@
+# .github/workflows/jekyll-algolia.yml
+on: [push]
+
+env:
+  ruby-version: "3.1"
+
+jobs:
+  build:
+    name: Algolia push records
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Ruby
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: ${{ env.ruby-version }}
+      - name: Install ruby dependencies
+        run: |
+          gem install bundler
+          bundle config path vendor/bundle
+          bundle install --jobs 4 --retry 3
+      - name: Push algolia records
+        if: success() && github.ref == 'refs/heads/master'
+        run: bundle exec jekyll algolia
+        env:
+          ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
