@@ -93,3 +93,4 @@ algolia:
   index_name: vektor8891
   files_to_exclude:
   - _posts/2013-1-1-wayne-grudem-barry-asmus-poverty-of-nations.md
+  - _posts/2015-1-1-ronald-sider-rich-christians.md
