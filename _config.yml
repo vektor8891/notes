@@ -86,3 +86,7 @@ exclude:
 
 # Add theme
 theme: minima
+
+# Add algolia
+algolia:
+  application_id: 'QOIYQNYZ6Z'
