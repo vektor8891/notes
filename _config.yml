@@ -91,3 +91,5 @@ theme: minima
 algolia:
   application_id: 'QOIYQNYZ6Z'
   index_name: vektor8891
+  files_to_exclude:
+  - wayne-grudem-barry-asmus-poverty-of-nations/
