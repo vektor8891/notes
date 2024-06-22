@@ -4,10 +4,6 @@ layout: default
 
 <div class="home">
 
-  {{ content }}
-
-  <h1 class="page-heading">Posts</h1>
-
   <div id="search-searchbar"></div>
 
   <div class="post-list" id="search-hits">
@@ -28,8 +24,6 @@ layout: default
   </div>
 
   {% include algolia.html %}
-
-  <p class="rss-subscribe">subscribe <a href="{{ '/feed.xml' | relative_url }}">via RSS</a></p>
 
 </div>
 
