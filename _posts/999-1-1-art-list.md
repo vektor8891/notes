@@ -5,7 +5,13 @@ published: true
 ---
 
 {% for row in site.data.arts %}
-<h2>{{ row["artist"] }}: {{ row["title"] }}, {{ row["year"] }}</h2>
-<p>{{ row["notes"] }} <a href="{{ row["source"] }}" target="_blank">Source</a></p>
-<p><img href="{{ row["url"] }}" alt="{{ row["title"] }} by {{ row["artist"] }}"></p>
+
+## {{ row["artist"] }}: {{ row["title"] }}, {{ row["year"] }}
+
+{{ row["notes"] }}
+
+[Source]({{ row["source"] }}){:target="_blank"}
+
+![{{ row["title"] }} by {{ row["artist"] }}]({{ row["url"] }})
+
 {% endfor %}
