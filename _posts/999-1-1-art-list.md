@@ -5,7 +5,7 @@ published: true
 ---
 
 {% for row in site.data.arts %}
-<h2>{{ row["author"]}}: {{ row["author"]}}, {{ row["year"]}}</h2>
-<a href="{{ row["source"]}}" target="_blank">Source</a>
-<img href="{{ row["url"]}}" target="_blank">
+<h2>{{ row["artist"] }}: {{ row["title"] }}, {{ row["year"] }}</h2>
+<a href="{{ row["source"] }}" target="_blank">Source</a>
+<img href="{{ row["url"] }}" target="_blank">
 {% endfor %}
