@@ -86,3 +86,9 @@ exclude:
 
 # Add theme
 theme: minima
+
+# Add algolia
+algolia:
+  application_id: 'QOIYQNYZ6Z'
+  index_name: vektor8891
+  search_only_api_key: d65e4e10cfa61c27a3e81db76b8cf83d
