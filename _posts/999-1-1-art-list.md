@@ -8,9 +8,7 @@ published: true
 
 ## {{ row["artist"] }}: {{ row["title"] }}, {{ row["year"] }}
 
-{{ row["notes"] }}
-
-[Source]({{ row["source"] }}){:target="_blank" rel="noopener noreferrer"}
+{{ row["notes"] }} ([Source]({{ row["source"] }}){:target="_blank" rel="noopener noreferrer"})
 
 ![{{ row["title"] }} by {{ row["artist"] }}]({{ row["url"] }})
 
