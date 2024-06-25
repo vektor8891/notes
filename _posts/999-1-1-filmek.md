@@ -7,7 +7,7 @@ published: true
 * TOC
 {:toc}
 
-{% for row in site.data.arts %}
+{% for row in site.data.movies %}
 
 ## {{ row["title"] }} ({{ row["year"] }})
 
