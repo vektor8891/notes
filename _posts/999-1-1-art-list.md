@@ -9,10 +9,10 @@ published: true
 
 {% for row in site.data.arts %}
 
-## {{ row["artist"] }}: {{ row["title"] }}, {{ row["year"] }}
+## {{ row["_artist"] }}: {{ row["title"] }}, {{ row["year"] }}
 
 ([Source]({{ row["source"] }}){:target="_blank" rel="noopener noreferrer"}) {{ row["notes"] }}
 
-![{{ row["title"] }} by {{ row["artist"] }}]({{ row["url"] }})
+![{{ row["title"] }} by {{ row["_artist"] }}]({{ row["url"] }})
 
 {% endfor %}

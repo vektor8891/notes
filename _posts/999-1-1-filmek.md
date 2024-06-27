@@ -9,7 +9,7 @@ published: true
 
 {% for row in site.data.movies %}
 
-## {{ row["title"] }} ({{ row["year"] }})
+## {{ row["_title"] }} ({{ row["year"] }})
 
 ([Source]({{ row["source"] }}){:target="_blank" rel="noopener noreferrer"}) {{ row["notes"] }}
 
