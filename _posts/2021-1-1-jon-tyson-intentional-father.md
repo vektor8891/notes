@@ -4,7 +4,7 @@ title: "Jon Tyson: The Intentional Father: A Practical Guide to Raise Sons of Co
 published: true
 ---
 
-\* TOC
+* TOC
 {:toc}
 
 ## PART 1: INTRODUCTION
