@@ -91,9 +91,4 @@ theme: minima
 algolia:
   application_id: 'QOIYQNYZ6Z'
   index_name: vektor8891
-  extensions_to_index:
-  - md
-#  files_to_exclude:
-#  - _posts/2013-1-1-wayne-grudem-barry-asmus-poverty-of-nations.md
-#  - _posts/2015-1-1-ronald-sider-rich-christians.md
-#  - _posts/2021-1-1-michael-foster-dominic-bnonn-tennant-its-good-to-be-man.md
+  search_only_api_key: d65e4e10cfa61c27a3e81db76b8cf83d
