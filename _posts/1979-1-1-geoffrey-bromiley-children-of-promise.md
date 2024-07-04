@@ -4,8 +4,8 @@ title: "Geoffrey W. Bromiley: Children of the Promise: The Case for Baptizing In
 published: true
 ---
 
-- TOC
-  {:toc}
+* TOC
+{:toc}
 
 ## 1. The Practice of the New Testament
 
