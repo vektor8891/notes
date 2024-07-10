@@ -15,14 +15,12 @@ published: true
 
 ([Source]({{ row["source"] }}){:target="_blank" rel="noopener noreferrer"}) {{ row["notes"] }}
 
-{% for url in row["urls"] | split: "|" %}
+{% assign urls  = row["urls"] | split: "|" %}
 
+{% for url in urls %}
 ![{{ row["lat"] }}]({{ url }})
-
 {% endfor %}
 
 Test
-
-![{{ row["lat"] }}]({{ row["url"] }})
 
 {% endfor %}
