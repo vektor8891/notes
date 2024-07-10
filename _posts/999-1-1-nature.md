@@ -21,7 +21,8 @@ published: true
 
 {% if kingdom == "Plantae" %}
 🇺🇸 plant kingdom / 🇭🇺 növények országa
-{% else if kingdom == "Animalia" %}
+{% endif %}
+{% if kingdom == "Animalia" %}
 🇺🇸 animal kingdom / 🇭🇺 állatok országa
 {% endif %}
 {% endif %}
@@ -34,9 +35,11 @@ published: true
 
 {% if type == "Lignosae" %}
 🇺🇸 woody plants / 🇭🇺 fás szárúak
-{% else if type == "Herbaceae" %}
+{% endif %}
+{% if type == "Herbaceaes" %}
 🇺🇸 herbaceous plants / 🇭🇺 lágyszárúak
-{% else if type == "Insecta" %}
+{% endif %}
+{% if type == "Insecta" %}
 🇺🇸 insects / 🇭🇺 rovarok
 {% endif %}
 {% endif %}
