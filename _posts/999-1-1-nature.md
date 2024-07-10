@@ -7,7 +7,7 @@ published: true
 * TOC
 {:toc}
 
-{% assign kingdom = "a" %}
+{% assign kingdom = "" %}
 {% assign type = "" %}
 
 {% for row in site.data.nature %}
@@ -15,6 +15,7 @@ published: true
 <!-- kingdom -->
 {% if row["_kingdom"] != kingdom %}
 {% assign kingdom = row["_kingdom"] %}
+{% assign type = "aaa" %}
 
 ## {{ kingdom }}
 
