@@ -9,8 +9,9 @@ published: true
 
 {% assign kingdom = "" %}
 {% assign type = "" %}
+{% assign sortedRows = site.data.nature | sort: 'lat' | sort: 'type' | sort: '_kingdom' %}
 
-{% for row in site.data.nature %}
+{% for row in sortedRows %}
 
 <!-- kingdom -->
 {% if row["_kingdom"] != kingdom %}
