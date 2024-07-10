@@ -50,8 +50,8 @@ published: true
 {% assign urls = row["urls"] | split: "|" %}
 
 {% for url in urls %}
-<!-- ![{{ row["lat"] }}]({{ url }}) -->
-{{ url }}
+![{{ row["lat"] }}]({{ url }})
+<!-- {{ url }} -->
 {% endfor %}
 
 {% endfor %}
