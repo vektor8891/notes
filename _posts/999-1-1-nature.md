@@ -7,24 +7,26 @@ published: true
 * TOC
 {:toc}
 
-{% assign kingdom = "" %}
+{% assign kingdom = "a" %}
 {% assign type = "" %}
 
 {% for row in site.data.nature %}
 
 <!-- kingdom -->
-{% if row["_kingdom] != kingdom %}
+{% if row["_kingdom"] != kingdom %}
 {% assign kingdom = row["_kingdom"] %}
 
 ## {{ kingdom }}
 
 {% if kingdom == "Plantae" %}
 🇺🇸 plant kingdom / 🇭🇺 növények országa
+{% else if kingdom == "Animalia" %}
+🇺🇸 animal kingdom / 🇭🇺 állatok országa
 {% endif %}
 {% endif %}
 
 <!-- type -->
-{% if row["type] != type %}
+{% if row["type"] != type %}
 {% assign type = row["type"] %}
 
 ### {{ type }}
@@ -33,6 +35,8 @@ published: true
 🇺🇸 woody plants / 🇭🇺 fás szárúak
 {% else if type == "Herbaceae" %}
 🇺🇸 herbaceous plants / 🇭🇺 lágyszárúak
+{% else if type == "Insecta" %}
+🇺🇸 insects / 🇭🇺 rovarok
 {% endif %}
 {% endif %}
 
