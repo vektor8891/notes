@@ -56,7 +56,7 @@ published: true
 {% if row["lat"] != null and row["lat"] != "" %}
 {% assign name = row["lat"] %}
 {% else %}
-{% assign name = row["eng"] %}
+{% assign name = row["eng"] | capitalize %}
 {% endif %}
 
 #### {{ name }}
