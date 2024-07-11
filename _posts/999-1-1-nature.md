@@ -12,10 +12,6 @@ published: true
 {% assign sortedRows = site.data.nature | sort: 'eng' | sort: 'lat' | sort: 'type' | sort: '_kingdom' %}
 
 {% for row in sortedRows %}
-
-{% if row["lat"] == "-" %}
-{% assign row["lat"] = row["eng"] %}
-{% endif %}
 {% assign type = "" %}
 
 <!-- kingdom -->
@@ -56,8 +52,14 @@ published: true
 {% endif %}
 {% endif %}
 
-<!-- details -->
-#### {{ row["lat"] }}
+<!-- name -->
+{% if row["lat"] == "" %}
+{% assign name = row["eng"] %}
+{% else %}
+{% assign name = row["lat"] %}
+{% endif %}
+
+#### {{ name }}
 
 🇺🇸 {{ row["eng"] }} / 🇭🇺 {{ row["hun"] }}
 
