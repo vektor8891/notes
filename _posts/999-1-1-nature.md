@@ -9,9 +9,14 @@ published: true
 
 {% assign kingdom = "" %}
 {% assign type = "" %}
-{% assign sortedRows = site.data.nature | sort: 'lat' | sort: 'type' | sort: '_kingdom' %}
+{% assign sortedRows = site.data.nature | sort: 'eng' | sort: 'lat' | sort: 'type' | sort: '_kingdom' %}
 
 {% for row in sortedRows %}
+
+{% if row["lat"] == "" %}
+{% assign row["lat"] = row["eng"] %}
+{% endif %}
+{% assign type = "" %}
 
 <!-- kingdom -->
 {% if row["_kingdom"] != kingdom %}
