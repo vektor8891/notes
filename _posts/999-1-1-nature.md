@@ -13,7 +13,7 @@ published: true
 
 {% for row in sortedRows %}
 
-{% if row["lat"] == "" %}
+{% if row["lat"] == "-" %}
 {% assign row["lat"] = row["eng"] %}
 {% endif %}
 {% assign type = "" %}
