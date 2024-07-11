@@ -26,6 +26,9 @@ published: true
 {% if kingdom == "Animalia" %}
 🇺🇸 animal kingdom / 🇭🇺 állatok országa
 {% endif %}
+{% if kingdom == "Ceterus" %}
+🇺🇸 other / 🇭🇺 egyéb
+{% endif %}
 {% endif %}
 
 <!-- type -->
@@ -42,6 +45,9 @@ published: true
 {% endif %}
 {% if type == "Insecta" %}
 🇺🇸 insects / 🇭🇺 rovarok
+{% endif %}
+{% if type == "Mineralia" %}
+🇺🇸 minerals / 🇭🇺 ásványok
 {% endif %}
 {% endif %}
 
