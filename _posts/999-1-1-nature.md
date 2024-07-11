@@ -7,16 +7,8 @@ published: true
 * TOC
 {:toc}
 
-{% assign kingdom = "" %}
-{% assign type = "" %}
-{% assign sortedRows = site.data.nature | sort: 'eng' | sort: 'lat' | sort: 'type' | sort: '_kingdom' %}
-
-{% for row in sortedRows %}
-{% assign type = "" %}
-
-<!-- kingdom -->
-{% if row["_kingdom"] != kingdom %}
-{% assign kingdom = row["_kingdom"] %}
+{% assign kingdoms = 'Animalia,Plantae,Ceterus' | split: ',' %}
+{% for kingdom in kingdoms %}
 {% assign type = "" %}
 
 ## {{ kingdom }}
@@ -30,6 +22,12 @@ published: true
 {% if kingdom == "Ceterus" %}
 🇺🇸 other / 🇭🇺 egyéb
 {% endif %}
+
+{% assign sortedRows = site.data.nature | sort: 'eng' | sort: 'lat' | sort: 'type' | sort: '_kingdom' %}
+
+{% for row in sortedRows %}
+{% if row["_kingdom"] != kingdom %}
+{% continue %}
 {% endif %}
 
 <!-- type -->
@@ -71,5 +69,5 @@ published: true
 ![{{ row["lat"] }}]({{ url }})
 <!-- {{ url }} -->
 {% endfor %}
-
+{% endfor %}
 {% endfor %}
