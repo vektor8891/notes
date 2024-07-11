@@ -53,10 +53,10 @@ published: true
 {% endif %}
 
 <!-- name -->
-{% if row["lat"] == "-" %}
-{% assign name = row["eng"] %}
-{% else %}
+{% if row["lat"] != null and row["lat"] != "" %}
 {% assign name = row["lat"] %}
+{% else %}
+{% assign name = row["eng"] %}
 {% endif %}
 
 #### {{ name }}
