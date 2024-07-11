@@ -17,7 +17,7 @@ published: true
 <!-- kingdom -->
 {% if row["_kingdom"] != kingdom %}
 {% assign kingdom = row["_kingdom"] %}
-{% assign type = "aaa" %}
+{% assign type = "" %}
 
 ## {{ kingdom }}
 
