@@ -37,22 +37,23 @@ published: true
 <!-- type -->
 
 {% if row["type"] != type %}
-{% if row["type"] == "Lignosae" %}
+{% assign type = row["type"] %}
+{% if type == "Lignosae" %}
 
 ### Woody plants / Fás szárúak
 
 {% endif %}
-{% if row["type"] == "Herbaceaes" %}
+{% if type == "Herbaceaes" %}
 
 ### Herbaceous plants / Lágyszárúak
 
 {% endif %}
-{% if row["type"] == "Insecta" %}
+{% if type == "Insecta" %}
 
 ### Insects / Rovarok
 
 {% endif %}
-{% if row["type"] == "Mineralia" %}
+{% if type == "Mineralia" %}
 
 ### Minerals / Ásványok
 
