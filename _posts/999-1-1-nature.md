@@ -13,17 +13,17 @@ published: true
 
 {% if kingdom == "Plantae" %}
 
-## Plants / Növények
+## Plants | Növények
 
 {% endif %}
 {% if kingdom == "Animalia" %}
 
-## Animals / Állatok
+## Animals | Állatok
 
 {% endif %}
 {% if kingdom == "Ceterus" %}
 
-## Other / Egyéb
+## Other | Egyéb
 
 {% endif %}
 
@@ -40,22 +40,22 @@ published: true
 {% assign type = row["type"] %}
 {% if type == "Lignosae" %}
 
-### Woody plants / Fás szárúak
+### Woody plants | Fás szárúak
 
 {% endif %}
 {% if type == "Herbaceaes" %}
 
-### Herbaceous plants / Lágyszárúak
+### Herbaceous plants | Lágyszárúak
 
 {% endif %}
 {% if type == "Insecta" %}
 
-### Insects / Rovarok
+### Insects | Rovarok
 
 {% endif %}
 {% if type == "Mineralia" %}
 
-### Minerals / Ásványok
+### Minerals | Ásványok
 
 {% endif %}
 {% endif %}
@@ -65,15 +65,13 @@ published: true
 {% if row["lat"] != null and row["lat"] != "" %}
 {% assign name = row["lat"] %}
 
-#### {{ row["eng"] }} / {{ row["hun"] }} ({{ row["lat"] }})
+#### {{ row["eng"] }} | {{ row["hun"] }} ({{ row["lat"] }})
 
 {% else %}
 
-#### {{ row["eng"] }} / {{ row["hun"] }}
+#### {{ row["eng"] }} | {{ row["hun"] }}
 
 {% endif %}
-
-<!-- 🇺🇸 {{ row["eng"] }} / 🇭🇺 {{ row["hun"] }} -->
 
 [[Wikipedia]({{ row["source"] }}){:target="\_blank" rel="noopener noreferrer"}] {{ row["notes"] }}
 
