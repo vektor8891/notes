@@ -63,7 +63,6 @@ published: true
 <!-- name -->
 
 {% if row["lat"] != null and row["lat"] != "" %}
-{% assign name = row["lat"] %}
 
 #### {{ row["eng"] }} | {{ row["hun"] }} ({{ row["lat"] }})
 
@@ -79,8 +78,6 @@ published: true
 
 {% for url in urls %}
 ![{{ row["lat"] }}]({{ url }}){:height="100px"}
-
-<!-- {{ url }} -->
 
 {% endfor %}
 {% endfor %}
