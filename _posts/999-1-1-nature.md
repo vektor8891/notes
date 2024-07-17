@@ -43,7 +43,7 @@ published: true
 ### Woody plants | Fás szárúak
 
 {% endif %}
-{% if type == "Herbaceaes" %}
+{% if type == "Herbaceae" %}
 
 ### Herbaceous plants | Lágyszárúak
 
