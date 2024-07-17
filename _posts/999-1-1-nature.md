@@ -4,24 +4,33 @@ title: "TERMÉSZET / NATURE"
 published: true
 ---
 
-* TOC
-{:toc}
+- TOC
+  {:toc}
 
 {% assign kingdoms = 'Animalia,Plantae,Ceterus' | split: ',' %}
 {% for kingdom in kingdoms %}
 {% assign type = "" %}
 
-## {{ kingdom }}
-
 {% if kingdom == "Plantae" %}
-🇺🇸 plant kingdom / 🇭🇺 növények országa
+{% assign kingdom_name = "Plants / Növények %}
+
+<!-- 🇺🇸 plant kingdom / 🇭🇺 növények országa -->
+
 {% endif %}
 {% if kingdom == "Animalia" %}
-🇺🇸 animal kingdom / 🇭🇺 állatok országa
+{% assign kingdom_name = "Animals / Állatok %}
+
+<!-- 🇺🇸 animal kingdom / 🇭🇺 állatok országa -->
+
 {% endif %}
 {% if kingdom == "Ceterus" %}
-🇺🇸 other / 🇭🇺 egyéb
+{% assign kingdom_name = "Other / Egyéb %}
+
+<!-- 🇺🇸 other / 🇭🇺 egyéb -->
+
 {% endif %}
+
+## {{ kingdom_name }}
 
 {% assign sortedRows = site.data.nature | sort: 'eng' | sort: 'lat' | sort: 'type' | sort: '_kingdom' %}
 
@@ -31,43 +40,60 @@ published: true
 {% endif %}
 
 <!-- type -->
+
 {% if row["type"] != type %}
-{% assign type = row["type"] %}
+{% if row["type"] == "Lignosae" %}
+{% assign type = "Woody plants / Fás szárúak %}
+
+<!-- 🇺🇸 woody plants / 🇭🇺 fás szárúak -->
+
+{% endif %}
+{% if row["type"] == "Herbaceaes" %}
+{% assign type = "Herbaceous plants / Lágyszárúak %}
+
+<!-- 🇺🇸 herbaceous plants / 🇭🇺 lágyszárúak -->
+
+{% endif %}
+{% if row["type"] == "Insecta" %}
+{% assign type = "Insects / Rovarok %}
+
+<!-- 🇺🇸 insects / 🇭🇺 rovarok -->
+
+{% endif %}
+{% if row["type"] == "Mineralia" %}
+{% assign type = "Minerals / Ásványok %}
+
+<!-- 🇺🇸 minerals / 🇭🇺 ásványok -->
+
+{% endif %}
+{% endif %}
 
 ### {{ type }}
 
-{% if type == "Lignosae" %}
-🇺🇸 woody plants / 🇭🇺 fás szárúak
-{% endif %}
-{% if type == "Herbaceaes" %}
-🇺🇸 herbaceous plants / 🇭🇺 lágyszárúak
-{% endif %}
-{% if type == "Insecta" %}
-🇺🇸 insects / 🇭🇺 rovarok
-{% endif %}
-{% if type == "Mineralia" %}
-🇺🇸 minerals / 🇭🇺 ásványok
-{% endif %}
-{% endif %}
-
 <!-- name -->
+
 {% if row["lat"] != null and row["lat"] != "" %}
 {% assign name = row["lat"] %}
+
+#### {{ row["eng"] }} / {{ row["hun"] }} ({{ row["lat"] }})
+
 {% else %}
-{% assign name = row["eng"] | capitalize %}
+
+#### {{ row["eng"] }} / {{ row["hun"] }}
+
 {% endif %}
 
-#### {{ name }}
+<!-- 🇺🇸 {{ row["eng"] }} / 🇭🇺 {{ row["hun"] }} -->
 
-🇺🇸 {{ row["eng"] }} / 🇭🇺 {{ row["hun"] }}
-
-([Source]({{ row["source"] }}){:target="_blank" rel="noopener noreferrer"}) {{ row["notes"] }}
+[[Wikipedia]({{ row["source"] }}){:target="\_blank" rel="noopener noreferrer"}] {{ row["notes"] }}
 
 {% assign urls = row["urls"] | split: "|" %}
 
 {% for url in urls %}
-![{{ row["lat"] }}]({{ url }})
+![{{ row["lat"] }}]({{ url }}){:height="100px"}
+
 <!-- {{ url }} -->
+
 {% endfor %}
 {% endfor %}
 {% endfor %}
