@@ -4,8 +4,8 @@ title: "TERMÉSZET / NATURE"
 published: true
 ---
 
-- TOC
-  {:toc}
+* TOC
+{:toc}
 
 {% assign kingdoms = 'Animalia,Plantae,Ceterus' | split: ',' %}
 {% for kingdom in kingdoms %}
