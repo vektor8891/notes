@@ -12,27 +12,22 @@ published: true
 {% assign type = "" %}
 
 {% if kingdom == "Plantae" %}
-{% assign kingdom_name = "Plants / Növények %}
 
-<!-- 🇺🇸 plant kingdom / 🇭🇺 növények országa -->
+## Plants / Növények
 
 {% endif %}
 {% if kingdom == "Animalia" %}
-{% assign kingdom_name = "Animals / Állatok %}
 
-<!-- 🇺🇸 animal kingdom / 🇭🇺 állatok országa -->
+## Animals / Állatok
 
 {% endif %}
 {% if kingdom == "Ceterus" %}
-{% assign kingdom_name = "Other / Egyéb %}
 
-<!-- 🇺🇸 other / 🇭🇺 egyéb -->
+## Other / Egyéb
 
 {% endif %}
 
-## {{ kingdom_name }}
-
-{% assign sortedRows = site.data.nature | sort: 'eng' | sort: 'lat' | sort: 'type' | sort: '_kingdom' %}
+{% assign sortedRows = site.data.nature | sort: 'eng' | sort: 'type' | sort: '_kingdom' %}
 
 {% for row in sortedRows %}
 {% if row["_kingdom"] != kingdom %}
@@ -43,32 +38,26 @@ published: true
 
 {% if row["type"] != type %}
 {% if row["type"] == "Lignosae" %}
-{% assign type = "Woody plants / Fás szárúak %}
 
-<!-- 🇺🇸 woody plants / 🇭🇺 fás szárúak -->
+### Woody plants / Fás szárúak
 
 {% endif %}
 {% if row["type"] == "Herbaceaes" %}
-{% assign type = "Herbaceous plants / Lágyszárúak %}
 
-<!-- 🇺🇸 herbaceous plants / 🇭🇺 lágyszárúak -->
+### Herbaceous plants / Lágyszárúak
 
 {% endif %}
 {% if row["type"] == "Insecta" %}
-{% assign type = "Insects / Rovarok %}
 
-<!-- 🇺🇸 insects / 🇭🇺 rovarok -->
+### Insects / Rovarok
 
 {% endif %}
 {% if row["type"] == "Mineralia" %}
-{% assign type = "Minerals / Ásványok %}
 
-<!-- 🇺🇸 minerals / 🇭🇺 ásványok -->
+### Minerals / Ásványok
 
 {% endif %}
 {% endif %}
-
-### {{ type }}
 
 <!-- name -->
 
