@@ -60,7 +60,7 @@ published: true
 
 ### 2. Effeminacy and Biblical Masculinity.
 
-Molding Future Men
+## Molding Future Men
 
 - Current culture: feminine, effeminate
 - Two (wrong) reactions to biblical masculinity:
