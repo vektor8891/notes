@@ -223,7 +223,7 @@ published: true
 - Christian liberty = slavery to God
 - > But with all this said, wine was given to gladden the heart of man (Ps 104:15), and one of the duties a father has is that of teaching his son to drink. (p. 81)
 
-### Future Men with Others
+## Future Men with Others
 
 ### 10. Mom and Sisters
 
