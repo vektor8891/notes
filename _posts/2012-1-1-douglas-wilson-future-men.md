@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Douglas Wilson: Future Men: Raising Boys to Fight Giants (2012)"
+title: "Douglas Wilson: Future Men: Raising Boys to Fight Giants, 2nd ed. (2012)"
 published: true
 ---
 
