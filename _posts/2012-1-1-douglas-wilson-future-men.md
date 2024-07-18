@@ -143,7 +143,7 @@ Molding Future Men
     - Remember that weapons are not carnal or political
 - Boys are built for battle, and they must be trained up to it. (P51)
 
-### Future Men Against Themselves
+## Future Men Against Themselves
 
 ### 6. Secret Sin, Tolerated Sin
 
@@ -437,7 +437,7 @@ Molding Future Men
 - Sin of omission:
   > The central sin of pop culture is therefore a sin of omission. … In a biblical culture, a man expects his great-grandchildren to read what he has read, sing what he has sung, listen to what he has listened to. In an evanescent culture, like the one that surrounds us, a man expects to have all his "cultural" experiences buried with him. (163)
 
-### Conclusion: Fighting Idols
+## Conclusion: Fighting Idols
 
 - Josh 24:14-15: Two kinds of idols
   - Idols in Egypt: before the Lord redeemed them → gods of antithesis
@@ -457,7 +457,7 @@ Molding Future Men
   - We must ache for the blessing of God on our children (Ps 144:12)
   - Young Christian must prepare for marriage and for the world outside marriage
 
-### Appendix
+## Appendix
 
 ### Appendix A: Liberty and Marijuana
 
