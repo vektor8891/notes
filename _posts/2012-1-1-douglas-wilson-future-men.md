@@ -58,7 +58,7 @@ published: true
    4. Distinctions are not to compete with each other (eg. glory of sun vs moon)
    5. Learn to be representative, responsible, and holy
 
-#### 2. Effeminacy and Biblical Masculinity.
+### 2. Effeminacy and Biblical Masculinity.
 
 Molding Future Men
 
@@ -80,7 +80,7 @@ Molding Future Men
 - Goal is perfection, not perfectionism
 - We counter perfectionism with obedience
 
-#### 3. A Call for Fathers
+### 3. A Call for Fathers
 
 - Boys threatened from within (sinful temptations) and outside (culture hostile to the very idea of masculinity)
 - Boys must be protected from outside threat while they are being trained to protect themselves
@@ -96,7 +96,7 @@ Molding Future Men
 - **Need for fathers:**
   > This is a great need in the Christian church today—we have a dearth of genuine fathers. We have males who have begotten more males, but we do not have many true fathers. Many men who should now be training their boys to be men are not yet men themselves. The gauntlet which their boys need to run is a gauntlet which they themselves failed to run. The battle their sons face is a battle which they once faced, and lost. Because of this, many of the lessons about masculinity contained in Scripture must first be internalized by the fathers. Such men must learn to be men themselves before they can teach their boys to be men. (p. 32)
 
-#### 4. A Covenant Home
+### 4. A Covenant Home
 
 - Danger of growing up in believing household: obedience to God can be postponed
 - Covenant: solemn bond, sovereignly administered, includes blessings and curses
@@ -112,7 +112,7 @@ Molding Future Men
   - **Other form of presumption:** “Thunder puppies” (Lk 9:54-55): know-it-all characters who boast about nonexistent accomplishments
 - Covenant home should not only guard against these but prepare sons for war
 
-#### 5. Doctrinal Meat
+### 5. Doctrinal Meat
 
 - Kingdom of God: not divided
 - Bible knows no alienation between generations
@@ -145,7 +145,7 @@ Molding Future Men
 
 ### Future Men Against Themselves
 
-#### 6. Secret Sin, Tolerated Sin
+### 6. Secret Sin, Tolerated Sin
 
 - Godly parents can't afford ignoring secret sins in their son’s life
 - **Secret sin:** built on a false theology of God
@@ -159,7 +159,7 @@ Molding Future Men
   - Fathers must hold their sons accountable
   - Be quick to listen, slow to speak (Prov 29:20)
 
-#### 7. Laziness and Hard Labor
+### 7. Laziness and Hard Labor
 
 - Boys tend to be lazy → they need to be taught and disciplined in physical labor
 - Difference between worldly self-esteem (Gal 6:3) and biblical self-respect (Gal 6:4-5)
@@ -177,7 +177,7 @@ Molding Future Men
 - There is sweetness in the beginning of dishonesty and deception but the end is calamity (Prov 9:16-18)
 - Laziness is counterproductive: it doesn't accomplish the desired end (Prov 12:24)
 
-#### 8. Money Paths and Traps
+### 8. Money Paths and Traps
 
 - Always, we must turn to the Word
 - Wealth is good (Prov 8:21) and it must be sought God’s way:
@@ -211,7 +211,7 @@ Molding Future Men
   - Enjoy the rest
 - Can start early (2 year old grandson receives 10 cents every evening before bed → sets aside tithe for the Lord's day)
 
-#### 9. Christian Liberty
+### 9. Christian Liberty
 
 - Freedom in Christ:
   - _From_ sin
@@ -225,7 +225,7 @@ Molding Future Men
 
 ### Future Men with Others
 
-#### 10. Mom and Sisters
+### 10. Mom and Sisters
 
 - > As the head of the home, the father is responsible to know the spiritual state of the home, how each member is doing in his relationship with God, and how they are all doing with one another. A father needs to know the state of his flock (Prov. 27:23). (p. 83)
 - Father needs to teach his wife about her son: respect and toughness
@@ -250,7 +250,7 @@ Molding Future Men
     2. Thinking of comfort and possession of others (not putting feet on coffee table)
     3. Personal presentation (dressing, eating)
 
-#### 11. Church and Worship
+### 11. Church and Worship
 
 - Feminine piety has become the norm
 - Standards of morality is the same between sexes but their expression is not
@@ -264,7 +264,7 @@ Molding Future Men
 - Sacraments: also important
 - Music: one of the chief culprits in the feminization of the church (churches abandoned singing of psalms ↔ writer of most psalms was a warrior)
 
-#### 12. Giants, Dragons, and Books
+### 12. Giants, Dragons, and Books
 
 - Gospel: story of dragon-fight (Gen 3:1,15; Rev 20:2) ↔ we have reduced it to four basic steps toward personal happiness
 - Our God is a great warrior who fights dragons
@@ -273,7 +273,7 @@ Molding Future Men
 - Book suggestions: Narnia, Lord of the Rings
 - > I did not get to Middle Earth until high school, but I saw to it that my children were introduced to The Lord of the Rings much earlier than I had been. I would read to the family in the evening, and it was frequently the case that I was not permitted to stop and had to read for three or four hours at a stretch. The first time I read through the trilogy to the kids my son was a two-year-old, and he sat and listened quite patiently. We were not sure how much he was getting, but during the battle scenes, his cheeks would get hot. (p. 105)
 
-#### 13. School Work
+### 13. School Work
 
 - **Threat of traditional schools:**
   > Traditional schools pose a particular kind of threat to masculinity. If a school is not careful, they will actively suppress the qualities in their male students which go into the making of a leader. Because of the very nature of institutions, conformity and discipline is of course required. This by itself is not at all a threat to the masculinity of boys—conformity and discipline are also found in the Navy Seals. But in a sexually-integrated school, boys and girls are disciplined together, and frequently the discipline is applied to the older boys by women teachers. In many schools, the entire teaching staff is made up of women. The presence of women teachers is not necessarily a problem, but the absence of male teachers most certainly is. But we have to be careful because the presence of male teachers (in the presence of women) can create another kind of problem for the male students. Such sexual integration does not create an automatic capitulation to effeminacy, but it most certainly does create a ready occasion for it. Schools with boys and girls together can avoid this problem, but they cannot avoid it apart from prayer, study, and discriminating discipline. Put another way, schools which do not think about this problem will have this problem in spades. (p. 109)
@@ -295,7 +295,7 @@ Molding Future Men
 - **Education**:
   > Education is teleological; it is directed to the end for which God made us. Because God made us for different purposes, men and women should be educated differently. … Sexually-integrated education, whether at home or in the classroom, must acquire the wisdom of biblical discrimination. (p. 113-114)
 
-#### 14. Friends
+### 14. Friends
 
 - Your child's friendships are important (1 Cor 15:33)
 - Prioritize finding a faithful, flourishing church
@@ -322,7 +322,7 @@ Molding Future Men
 - Parents have important authority in this area, esp. at young age
 - Bringing a friendship to an end is also an option if the friendship is harmful but should be done as a last resort after much prayer
 
-#### 15. Fighting, Sports, and Competition
+### 15. Fighting, Sports, and Competition
 
 - Christian faith is not pacifistic
 - Eschatological pacifism is real part of God's promise for the future “but until the time when men will learn war no more, they must still learn it” → boys should learn when, where, and how to fight
@@ -351,7 +351,7 @@ Molding Future Men
     > It is quite true that a competitor should not care about winning more than he cares about glorifying God. But although it may sound crass, the point of playing a game is to win it—and this is how young men should be trained to glorify God. Winning isn't everything, but it is the point of the particular activity. (133)
   - False doctrine of self-worship
 
-#### 16. Girls and Sex
+### 16. Girls and Sex
 
 - Boys must learn to treat girls and women with honor and respect
 - > A two-year-old boy should be taught to respect his baby sister because she is a girl. A five-year-old boy should be required to say "yes, ma'am" to his mother simply because she is a woman. Young boys need to be taught to stand when a woman enters the room. They should be taught to hold open doors for women. They should seat their mother at the dinner table. These are not arbitrary or random cultural practices which have no meaning. They are a constant daily reminder to males—whose lusts when unmortified always degrade women—that women must not be degraded, but rather honored. Manners are therefore a form of sexual discipleship; they are sexual discipline. A boy who has learned to honor women everywhere will have difficulty in despising one in the back seat of a car. (136)
@@ -376,7 +376,7 @@ Molding Future Men
 - Sexual immorality is always accompanied by lying → lying usually starts before immorally does
 - Sexual impatience causes a lot of problems in marriage
 
-#### 17. Courtship and Betrothal
+### 17. Courtship and Betrothal
 
 - **Meeting with the girl's father:**
   > ... a young man must be prepared for the father of the young lady who catches his interest. If he is a wise father, he will want to know this suitor's sexual history-not lurid details, but enough to know whether or not this young man is likely to be a faithful husband to his daughter. But there is no telling if his future father-in-law will be a wise man. A son may have met a Christian girl from a non-Christian home, or she may be from what is a messed-up Christian home. When your son goes to her father to receive direction, he might not get any. One result of this is that the sexual purity of the couple is not protected. In situations like this, it would be a good idea for the son to seek out the counsel and advice of his own parents. This is done, not because they have authority over the situation, but rather because they are trying to make the best out of a bad situation. (145)
@@ -408,7 +408,7 @@ Molding Future Men
 - Look to yourself first:
   > Scripture teaches us to look to ourselves first. A young man should primarily want to be the kind of young man a young woman like this would want to marry. (151)
 
-#### 18. Contempt for the Cool
+### 18. Contempt for the Cool
 
 - Difficulty: how to teach children to think like Christians
 - Clothes: God clothes his elect → we can't say that clothes are a “neutral thing”
@@ -459,7 +459,7 @@ Molding Future Men
 
 ### Appendix
 
-#### Appendix A: Liberty and Marijuana
+### Appendix A: Liberty and Marijuana
 
 - Civil disobedience:
   > With regard to civil disobedience, an individual may withstand the authorities only if he has warrant from the Word of God to do so, and does so in a way that is an honor to the gospel. If he does not, then he may not. (173)
@@ -477,7 +477,7 @@ Molding Future Men
 - Only word in NT related to drug use is _pharmakeia_ (Gal 5:20) translated as _sorcery_ or _witchcraft_ → connection between drug use and occult practices are not entirely severed even today
 - Coffee / tobacco: not mind-altering agents
 
-#### Appendix B: Proverbs Was Written for Boys
+### Appendix B: Proverbs Was Written for Boys
 
 - Proverbs: treasury of instructions for parents of boys
 - Boy must learn to be teachable (Prov 1:7-8)
