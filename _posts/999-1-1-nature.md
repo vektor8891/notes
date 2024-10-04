@@ -11,19 +11,23 @@ published: true
 {% for kingdom in kingdoms %}
 {% assign type = "" %}
 
-## {{ kingdom }}
-
 {% if kingdom == "Plantae" %}
-🇺🇸 plant kingdom / 🇭🇺 növények országa
+
+## Plants | Növények
+
 {% endif %}
 {% if kingdom == "Animalia" %}
-🇺🇸 animal kingdom / 🇭🇺 állatok országa
+
+## Animals | Állatok
+
 {% endif %}
 {% if kingdom == "Ceterus" %}
-🇺🇸 other / 🇭🇺 egyéb
+
+## Other | Egyéb
+
 {% endif %}
 
-{% assign sortedRows = site.data.nature | sort: 'eng' | sort: 'lat' | sort: 'type' | sort: '_kingdom' %}
+{% assign sortedRows = site.data.nature | sort: 'eng' | sort: 'type' | sort: '_kingdom' %}
 
 {% for row in sortedRows %}
 {% if row["_kingdom"] != kingdom %}
@@ -31,43 +35,50 @@ published: true
 {% endif %}
 
 <!-- type -->
+
 {% if row["type"] != type %}
 {% assign type = row["type"] %}
-
-### {{ type }}
-
 {% if type == "Lignosae" %}
-🇺🇸 woody plants / 🇭🇺 fás szárúak
+
+### Woody plants | Fás szárúak
+
 {% endif %}
-{% if type == "Herbaceaes" %}
-🇺🇸 herbaceous plants / 🇭🇺 lágyszárúak
+{% if type == "Herbaceae" %}
+
+### Herbaceous plants | Lágyszárúak
+
 {% endif %}
 {% if type == "Insecta" %}
-🇺🇸 insects / 🇭🇺 rovarok
+
+### Insects | Rovarok
+
 {% endif %}
 {% if type == "Mineralia" %}
-🇺🇸 minerals / 🇭🇺 ásványok
+
+### Minerals | Ásványok
+
 {% endif %}
 {% endif %}
 
 <!-- name -->
+
 {% if row["lat"] != null and row["lat"] != "" %}
-{% assign name = row["lat"] %}
+
+#### {{ row["eng"] }} | {{ row["hun"] }} ({{ row["lat"] }})
+
 {% else %}
-{% assign name = row["eng"] | capitalize %}
+
+#### {{ row["eng"] }} | {{ row["hun"] }}
+
 {% endif %}
 
-#### {{ name }}
-
-🇺🇸 {{ row["eng"] }} / 🇭🇺 {{ row["hun"] }}
-
-([Source]({{ row["source"] }}){:target="_blank" rel="noopener noreferrer"}) {{ row["notes"] }}
+[[Wikipedia]({{ row["source"] }}){:target="\_blank" rel="noopener noreferrer"}] {{ row["notes"] }}
 
 {% assign urls = row["urls"] | split: "|" %}
 
 {% for url in urls %}
-![{{ row["lat"] }}]({{ url }})
-<!-- {{ url }} -->
+![{{ row["lat"] }}]({{ url }}){:height="100px"}
+
 {% endfor %}
 {% endfor %}
 {% endfor %}
