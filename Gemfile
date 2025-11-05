@@ -6,6 +6,8 @@ gem 'sass-embedded', '~> 1.69.0'
 
 group :jekyll_plugins do
   gem 'jekyll-algolia', '~> 1.0'
+  gem 'jekyll-sitemap', '~> 1.4'
+  gem 'jekyll-feed', '~> 0.17'
 end
 
 # Platform-specific gems
