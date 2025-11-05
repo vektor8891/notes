@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'jekyll', '~> 4.3.0'
 gem 'minima'
+gem 'sass-embedded', '~> 1.69.0'
 
 group :jekyll_plugins do
   gem 'jekyll-algolia', '~> 1.0'
